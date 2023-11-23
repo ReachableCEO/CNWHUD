@@ -1,7 +1,7 @@
 ---
 created: 2023-11-23T15:17:16.046Z
-updated: 2023-11-23T15:22:36.124Z
-assigned: ""
+updated: 2023-11-23T22:30:59.523Z
+assigned: Patti
 progress: 0
 tags:
   - CFOO

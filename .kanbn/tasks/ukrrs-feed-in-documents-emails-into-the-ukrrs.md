@@ -1,7 +1,7 @@
 ---
 created: 2023-11-23T15:13:18.662Z
-updated: 2023-11-23T15:13:18.656Z
-assigned: ""
+updated: 2023-11-23T22:30:50.587Z
+assigned: Charles
 progress: 0
 tags: []
 ---
@@ -12,4 +12,4 @@ Universal
 Knowledge
 Representation
 Retrival
-System 
+System

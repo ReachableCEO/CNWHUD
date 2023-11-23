@@ -9,31 +9,32 @@ completedColumns:
 
 ## Backlog
 
-- [bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com.md)
-- [bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com.md)
-- [personal-overhead-finalize-recurring-evening-routine](tasks/personal-overhead-finalize-recurring-evening-routine.md)
-- [stl-mount-shelf-in-common-area](tasks/stl-mount-shelf-in-common-area.md)
-- [ukrrs-feed-in-documents-emails-into-the-ukrrs](tasks/ukrrs-feed-in-documents-emails-into-the-ukrrs.md)
-- [vehicle-maintenance-mount-tahoe-dash-cam](tasks/vehicle-maintenance-mount-tahoe-dash-cam.md)
-- [vehicle-maintenance-fix-plastic-panel-on-driver-side-front-door](tasks/vehicle-maintenance-fix-plastic-panel-on-driver-side-front-door.md)
 - [household-maintenance-monthly-quarterly-routine](tasks/household-maintenance-monthly-quarterly-routine.md)
 - [household-maintenance-toll-billpay](tasks/household-maintenance-toll-billpay.md)
 - [household-maintenance-process-mail-backlog](tasks/household-maintenance-process-mail-backlog.md)
 - [vehicle-maintenance-phone-mount-mazda](tasks/vehicle-maintenance-phone-mount-mazda.md)
+- [vehicle-maintenance-mount-tahoe-dash-cam](tasks/vehicle-maintenance-mount-tahoe-dash-cam.md)
+- [personal-overhead-finalize-recurring-evening-routine](tasks/personal-overhead-finalize-recurring-evening-routine.md)
+- [ukrrs-feed-in-documents-emails-into-the-ukrrs](tasks/ukrrs-feed-in-documents-emails-into-the-ukrrs.md)
+- [vehicle-maintenance-fix-plastic-panel-on-driver-side-front-door](tasks/vehicle-maintenance-fix-plastic-panel-on-driver-side-front-door.md)
+- [stl-mount-shelf-in-common-area](tasks/stl-mount-shelf-in-common-area.md)
+- [bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com.md)
+- [bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com.md)
 
 ## Todo
 
-- [laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage](tasks/laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage.md)
-- [tech-ops-remove-true-nas-from-pfv-stor1](tasks/tech-ops-remove-true-nas-from-pfv-stor1.md)
 - [laptop-setup-setup-backup-system-local-remote-and-take-initial-backup](tasks/laptop-setup-setup-backup-system-local-remote-and-take-initial-backup.md)
+- [tech-ops-remove-true-nas-from-pfv-stor1](tasks/tech-ops-remove-true-nas-from-pfv-stor1.md)
+- [laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage](tasks/laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage.md)
 
 ## In Progress
 
-- [laptop-setup-install-all-software-packages-and-document-the-list](tasks/laptop-setup-install-all-software-packages-and-document-the-list.md)
-- [laptop-setup-finish-drive-d-data-import-eliminate-duplicates-data-location](tasks/laptop-setup-finish-drive-d-data-import-eliminate-duplicates-data-location.md)
-- [laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account](tasks/laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account.md)
-- [laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account](tasks/laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account.md)
 - [household-maintenance-air-mattress-leak](tasks/household-maintenance-air-mattress-leak.md)
+- [photograph-and-list-inventory](tasks/photograph-and-list-inventory.md)
+- [laptop-setup-finish-drive-d-data-import-eliminate-duplicates-data-location](tasks/laptop-setup-finish-drive-d-data-import-eliminate-duplicates-data-location.md)
+- [laptop-setup-install-all-software-packages-and-document-the-list](tasks/laptop-setup-install-all-software-packages-and-document-the-list.md)
+- [laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account](tasks/laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account.md)
+- [laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account](tasks/laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account.md)
 - [laptop-setup-live-code-streaming](tasks/laptop-setup-live-code-streaming.md)
 
 ## Done

@@ -34,7 +34,6 @@ completedColumns:
 - [laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account](tasks/laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account.md)
 - [laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account](tasks/laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account.md)
 - [household-maintenance-air-mattress-leak](tasks/household-maintenance-air-mattress-leak.md)
-- [laptop-setup-vscode-setup-coding-profile-and-all-workspaces](tasks/laptop-setup-vscode-setup-coding-profile-and-all-workspaces.md)
 
 ## Done
 
@@ -44,4 +43,5 @@ completedColumns:
 - [household-maintenance-porch-light-automation](tasks/household-maintenance-porch-light-automation.md)
 - [transfer-todo-list-from-ms-todo-to-this-hud](tasks/transfer-todo-list-from-ms-todo-to-this-hud.md)
 - [ensure-cfoo-has-access-to-all-safes-and-locked-areas](tasks/ensure-cfoo-has-access-to-all-safes-and-locked-areas.md)
+- [laptop-setup-vscode-setup-coding-profile-and-all-workspaces](tasks/laptop-setup-vscode-setup-coding-profile-and-all-workspaces.md)
 - [laptop-setup-vscode-setup-documentation-workspace-profile](tasks/laptop-setup-vscode-setup-documentation-workspace-profile.md)

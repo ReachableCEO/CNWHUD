@@ -1,12 +1,12 @@
 ---
 created: 2023-11-23T15:22:51.993Z
-updated: 2023-11-23T15:23:59.020Z
+updated: 2023-11-23T23:29:54.693Z
 assigned: Patti
-progress: 0
+progress: 0.6
 tags:
   - CFOO
-due: 2023-11-17T00:00:00.000Z
-started: 2023-11-16T00:00:00.000Z
+due: 2023-11-16T00:00:00.000Z
+started: 2023-11-15T00:00:00.000Z
 ---
 
 # Household Maintenance: Air Mattress Leak

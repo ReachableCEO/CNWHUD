@@ -29,13 +29,13 @@ completedColumns:
 
 ## In Progress
 
-- [household-maintenance-air-mattress-leak](tasks/household-maintenance-air-mattress-leak.md)
-- [photograph-and-list-inventory](tasks/photograph-and-list-inventory.md)
 - [laptop-setup-finish-drive-d-data-import-eliminate-duplicates-data-location](tasks/laptop-setup-finish-drive-d-data-import-eliminate-duplicates-data-location.md)
 - [laptop-setup-install-all-software-packages-and-document-the-list](tasks/laptop-setup-install-all-software-packages-and-document-the-list.md)
-- [laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account](tasks/laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account.md)
-- [laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account](tasks/laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account.md)
+- [household-maintenance-air-mattress-leak](tasks/household-maintenance-air-mattress-leak.md)
+- [photograph-and-list-inventory](tasks/photograph-and-list-inventory.md)
 - [laptop-setup-live-code-streaming](tasks/laptop-setup-live-code-streaming.md)
+- [laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account](tasks/laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account.md)
+- [laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account](tasks/laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account.md)
 
 ## Done
 

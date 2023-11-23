@@ -34,6 +34,7 @@ completedColumns:
 - [laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account](tasks/laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account.md)
 - [laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account](tasks/laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account.md)
 - [household-maintenance-air-mattress-leak](tasks/household-maintenance-air-mattress-leak.md)
+- [laptop-setup-live-code-streaming](tasks/laptop-setup-live-code-streaming.md)
 
 ## Done
 

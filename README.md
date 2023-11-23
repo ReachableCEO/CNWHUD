@@ -21,9 +21,10 @@ He is using the following tools:
 
 ## What it looks like
 
-
+![](20231123173403.png)
 
 ## Key links
 
 * My rolling HUD (heads up display) (what I am currently doing as my critical path) [CNWHUD](./.kanbn/index.md)
+* (coming within 24 hours) my personal/tsys notes (currently consolidating from apple notes/joplin/text files)
 * (coming soon) Markwhen project plan. This will be implemented when I reach the end of my current todo list (projected for 12/10 or so)

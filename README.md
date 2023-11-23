@@ -4,8 +4,8 @@
 
 Welcome to the CNWHUD repository. This is where Charles N Wyble (aka @ReachableCEO) stores his :
 
-* todo list 
-* projects 
+* todo list
+* projects
 * public notes (works in progress, observations, snippets). Nothing in this repository should be construed as public material statements in relation to the TSYS enterprise.
 
 He is using the following tools:
@@ -18,6 +18,10 @@ He is using the following tools:
 
 * [vscode-dendron](https://marketplace.visualstudio.com/items?itemName=dendron.dendron)
 * [dendron](https://www.dendron.so/)
+
+## What it looks like
+
+
 
 ## Key links
 

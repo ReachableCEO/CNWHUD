@@ -36,6 +36,7 @@ completedColumns:
 - [laptop-setup-live-code-streaming](tasks/laptop-setup-live-code-streaming.md)
 - [laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account](tasks/laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account.md)
 - [laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account](tasks/laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account.md)
+- [activity-watcher-instrumentation](tasks/activity-watcher-instrumentation.md)
 
 ## Done
 

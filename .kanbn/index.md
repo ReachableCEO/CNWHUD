@@ -14,7 +14,6 @@ completedColumns:
 - [household-maintenance-process-mail-backlog](tasks/household-maintenance-process-mail-backlog.md)
 - [vehicle-maintenance-phone-mount-mazda](tasks/vehicle-maintenance-phone-mount-mazda.md)
 - [vehicle-maintenance-mount-tahoe-dash-cam](tasks/vehicle-maintenance-mount-tahoe-dash-cam.md)
-- [personal-overhead-finalize-recurring-evening-routine](tasks/personal-overhead-finalize-recurring-evening-routine.md)
 - [ukrrs-feed-in-documents-emails-into-the-ukrrs](tasks/ukrrs-feed-in-documents-emails-into-the-ukrrs.md)
 - [vehicle-maintenance-fix-plastic-panel-on-driver-side-front-door](tasks/vehicle-maintenance-fix-plastic-panel-on-driver-side-front-door.md)
 - [stl-mount-shelf-in-common-area](tasks/stl-mount-shelf-in-common-area.md)
@@ -48,3 +47,4 @@ completedColumns:
 - [ensure-cfoo-has-access-to-all-safes-and-locked-areas](tasks/ensure-cfoo-has-access-to-all-safes-and-locked-areas.md)
 - [laptop-setup-vscode-setup-coding-profile-and-all-workspaces](tasks/laptop-setup-vscode-setup-coding-profile-and-all-workspaces.md)
 - [laptop-setup-vscode-setup-documentation-workspace-profile](tasks/laptop-setup-vscode-setup-documentation-workspace-profile.md)
+- [personal-overhead-finalize-recurring-evening-routine](tasks/personal-overhead-finalize-recurring-evening-routine.md)

@@ -29,14 +29,15 @@ completedColumns:
 
 ## In Progress
 
-- [laptop-setup-dotfiles](tasks/laptop-setup-dotfiles.md)
-- [laptop-setup-install-all-software-packages-and-document-the-list](tasks/laptop-setup-install-all-software-packages-and-document-the-list.md)
-- [laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage](tasks/laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage.md)
+- [activity-watcher-instrumentation](tasks/activity-watcher-instrumentation.md)
+- [organize-photos](tasks/organize-photos.md)
 - [laptop-setup-finish-drive-d-data-import-eliminate-duplicates-data-location](tasks/laptop-setup-finish-drive-d-data-import-eliminate-duplicates-data-location.md)
+- [laptop-setup-install-all-software-packages-and-document-the-list](tasks/laptop-setup-install-all-software-packages-and-document-the-list.md)
+- [laptop-setup-dotfiles](tasks/laptop-setup-dotfiles.md)
+- [laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage](tasks/laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage.md)
 - [laptop-setup-live-code-streaming](tasks/laptop-setup-live-code-streaming.md)
 - [laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account](tasks/laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account.md)
 - [laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account](tasks/laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account.md)
-- [activity-watcher-instrumentation](tasks/activity-watcher-instrumentation.md)
 
 ## Done
 

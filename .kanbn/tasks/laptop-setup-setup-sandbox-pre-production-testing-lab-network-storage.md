@@ -1,9 +1,10 @@
 ---
 created: 2023-11-23T14:59:14.010Z
-updated: 2023-11-23T22:31:54.624Z
+updated: 2023-11-24T03:31:07.486Z
 assigned: Charles
 progress: 0
 tags: []
+started: 2023-11-24T03:31:07.486Z
 ---
 
 # Laptop Setup: Setup sandbox/pre production testing lab (network/storage)

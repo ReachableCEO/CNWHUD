@@ -41,11 +41,10 @@ sprints:
 
 ## Todo
 
-- [laptop-setup-setup-backup-system-local-remote-and-take-initial-backup](tasks/laptop-setup-setup-backup-system-local-remote-and-take-initial-backup.md)
-
 ## In Progress
 
 - [laptop-setup-install-all-software-packages-and-document-the-list](tasks/laptop-setup-install-all-software-packages-and-document-the-list.md)
+- [laptop-setup-setup-backup-system-local-remote-and-take-initial-backup](tasks/laptop-setup-setup-backup-system-local-remote-and-take-initial-backup.md)
 - [laptop-setup-dotfiles](tasks/laptop-setup-dotfiles.md)
 - [laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage](tasks/laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage.md)
 - [laptop-setup-live-code-streaming](tasks/laptop-setup-live-code-streaming.md)

@@ -33,6 +33,7 @@ sprints:
 - [bizops-tsys-llc](tasks/bizops-tsys-llc.md)
 - [recover-pki-safe-combination](tasks/recover-pki-safe-combination.md)
 - [update-rr-subo-llc-operating-agreements-using-fairshares-model](tasks/update-rr-subo-llc-operating-agreements-using-fairshares-model.md)
+- [rack-rental-dut-finish-galielo-bringup](tasks/rack-rental-dut-finish-galielo-bringup.md)
 
 ## Todo
 

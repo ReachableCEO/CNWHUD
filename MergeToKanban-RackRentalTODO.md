@@ -2,11 +2,6 @@
 
 ## Physical infrastructure work
 
-### DUT bringup
-
-Finish esp32 bringup
-Finish sifive bringup
-
 ### Infrastructure work
 
 Get rackrental router (2800) on net

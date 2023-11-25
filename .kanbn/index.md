@@ -36,6 +36,8 @@ sprints:
 - [rack-rental-dut-finish-galielo-bringup](tasks/rack-rental-dut-finish-galielo-bringup.md)
 - [rack-rental-dut-finish-parallella-bringup](tasks/rack-rental-dut-finish-parallella-bringup.md)
 - [rack-rental-dut-finish-sifive-bringup](tasks/rack-rental-dut-finish-sifive-bringup.md)
+- [rack-rental-infrastructure-get-rackrental-router-2800-on-net](tasks/rack-rental-infrastructure-get-rackrental-router-2800-on-net.md)
+- [rack-rental-infrastructure-physical-dut-console](tasks/rack-rental-infrastructure-physical-dut-console.md)
 
 ## Todo
 

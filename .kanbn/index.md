@@ -22,6 +22,7 @@ completedColumns:
 - [bizops-create-emergency-action-plan](tasks/bizops-create-emergency-action-plan.md)
 - [bizops-pac](tasks/bizops-pac.md)
 - [bizops-insurance](tasks/bizops-insurance.md)
+- [bizops-continunity](tasks/bizops-continunity.md)
 
 ## Todo
 

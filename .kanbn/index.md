@@ -19,6 +19,7 @@ completedColumns:
 - [stl-mount-shelf-in-common-area](tasks/stl-mount-shelf-in-common-area.md)
 - [bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com.md)
 - [bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com.md)
+- [bizops-create-emergency-action-plan](tasks/bizops-create-emergency-action-plan.md)
 
 ## Todo
 

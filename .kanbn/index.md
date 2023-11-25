@@ -20,8 +20,8 @@ completedColumns:
 - [bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com.md)
 - [bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com.md)
 - [bizops-create-emergency-action-plan](tasks/bizops-create-emergency-action-plan.md)
-- [bizops-insurance](tasks/bizops-insurance.md)
 - [bizops-pac](tasks/bizops-pac.md)
+- [bizops-insurance](tasks/bizops-insurance.md)
 
 ## Todo
 

@@ -23,6 +23,7 @@ completedColumns:
 - [bizops-pac](tasks/bizops-pac.md)
 - [bizops-insurance](tasks/bizops-insurance.md)
 - [bizops-continunity](tasks/bizops-continunity.md)
+- [bizops-tsys-llc](tasks/bizops-tsys-llc.md)
 
 ## Todo
 

@@ -2,42 +2,28 @@
 
 ## Physical infrastructure work
 
+### DUT bringup
+
+Finish galielo bringup
+Finish parallella bringup
+Finish esp32 bringup
+Finish sifive bringup
+
+### Infrastructure work
+
 Get rackrental router (2800) on net
-setup rdp on jetsonrr 
-setup rdp on pfv-rrsvr guest machines 
-fix cyclades ssh 
 confirm final console ports
-setup console / power port mapping on cyclades 
-
-SBC setup 
-parallela 
-esp
-sifive
-
-Setup xilinx
-Setup graphical terminal software
-Setup RDP
-
-Setup FreedomStudio
-
-Setup Arduino
-
-Setup jetsonrr with RDP and GNURadio etc
-
-SBC setup
-parallela
-esp32
-sifive
-
+Get finalized inventory into spreadsheet
+fix cyclades ssh 
+setup console / power port mapping on cyclades
 Remove weak passwords from rackrental vm server drac 
 
-- Finish galielo bringup
-- Finish parallella bringup
-- Get finalized inventory into spreadsheet
-- confirm final console ports
-- setup console / power port mapping on cyclades
 
 ## Software
+
+Setup FreedomStudio
+setup rdp on jetsonrr 
+Setup jetsonrr with RDP and GNURadio etc
 
 - Finish middleware
 - Deploy nomad/counsul across SATX/AUSLAB

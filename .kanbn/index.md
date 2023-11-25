@@ -3,6 +3,10 @@ startedColumns:
   - 'In Progress'
 completedColumns:
   - Done
+sprints:
+  -
+    start: 2023-11-25T22:45:39.455Z
+    name: CNWOpsExit
 ---
 
 # CNWHUD

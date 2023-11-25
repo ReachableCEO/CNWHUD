@@ -1,21 +1,10 @@
 # RackRental todo
 
-## Physical infrastructure work
-
-### Infrastructure work
-
-Get rackrental router (2800) on net
-confirm final console ports
-Get finalized inventory into spreadsheet
-fix cyclades ssh
-setup console / power port mapping on cyclades
-Remove weak passwords from rackrental vm server drac 
-
 ## Software
 
 Setup FreedomStudio
 setup rdp on jetsonrr 
-Setup jetsonrr with RDP and GNURadio etc
+Setup jetsonrr with SDR bits
 Finish middleware
 Deploy nomad/counsul across SATX/AUSLAB
 Deploy MAAS on auslab-core-rtr

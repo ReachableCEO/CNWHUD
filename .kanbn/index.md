@@ -35,7 +35,6 @@ completedColumns:
 - [laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage](tasks/laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage.md)
 - [laptop-setup-live-code-streaming](tasks/laptop-setup-live-code-streaming.md)
 - [laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account](tasks/laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account.md)
-- [organize-photos](tasks/organize-photos.md)
 
 ## Done
 
@@ -46,6 +45,7 @@ completedColumns:
 - [vehicle-maintenance-mazda-back-seat](tasks/vehicle-maintenance-mazda-back-seat.md)
 - [household-maintenance-porch-light-automation](tasks/household-maintenance-porch-light-automation.md)
 - [transfer-todo-list-from-ms-todo-to-this-hud](tasks/transfer-todo-list-from-ms-todo-to-this-hud.md)
+- [organize-photos](tasks/organize-photos.md)
 - [ensure-cfoo-has-access-to-all-safes-and-locked-areas](tasks/ensure-cfoo-has-access-to-all-safes-and-locked-areas.md)
 - [laptop-setup-vscode-setup-coding-profile-and-all-workspaces](tasks/laptop-setup-vscode-setup-coding-profile-and-all-workspaces.md)
 - [laptop-setup-vscode-setup-documentation-workspace-profile](tasks/laptop-setup-vscode-setup-documentation-workspace-profile.md)

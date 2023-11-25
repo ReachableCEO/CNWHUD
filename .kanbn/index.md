@@ -34,6 +34,8 @@ sprints:
 - [recover-pki-safe-combination](tasks/recover-pki-safe-combination.md)
 - [update-rr-subo-llc-operating-agreements-using-fairshares-model](tasks/update-rr-subo-llc-operating-agreements-using-fairshares-model.md)
 - [rack-rental-dut-finish-galielo-bringup](tasks/rack-rental-dut-finish-galielo-bringup.md)
+- [rack-rental-dut-finish-parallella-bringup](tasks/rack-rental-dut-finish-parallella-bringup.md)
+- [rack-rental-dut-finish-sifive-bringup](tasks/rack-rental-dut-finish-sifive-bringup.md)
 
 ## Todo
 

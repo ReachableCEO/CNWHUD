@@ -4,8 +4,6 @@
 
 ### DUT bringup
 
-Finish galielo bringup
-Finish parallella bringup
 Finish esp32 bringup
 Finish sifive bringup
 

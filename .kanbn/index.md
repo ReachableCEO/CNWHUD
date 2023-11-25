@@ -9,6 +9,9 @@ completedColumns:
 
 ## Backlog
 
+- [tech-ops-remove-true-nas-from-pfv-stor1](tasks/tech-ops-remove-true-nas-from-pfv-stor1.md)
+- [household-maintenance-air-mattress-leak](tasks/household-maintenance-air-mattress-leak.md)
+- [photograph-and-list-inventory](tasks/photograph-and-list-inventory.md)
 - [household-maintenance-monthly-quarterly-routine](tasks/household-maintenance-monthly-quarterly-routine.md)
 - [household-maintenance-toll-billpay](tasks/household-maintenance-toll-billpay.md)
 - [household-maintenance-process-mail-backlog](tasks/household-maintenance-process-mail-backlog.md)
@@ -28,9 +31,6 @@ completedColumns:
 ## Todo
 
 - [laptop-setup-setup-backup-system-local-remote-and-take-initial-backup](tasks/laptop-setup-setup-backup-system-local-remote-and-take-initial-backup.md)
-- [tech-ops-remove-true-nas-from-pfv-stor1](tasks/tech-ops-remove-true-nas-from-pfv-stor1.md)
-- [photograph-and-list-inventory](tasks/photograph-and-list-inventory.md)
-- [household-maintenance-air-mattress-leak](tasks/household-maintenance-air-mattress-leak.md)
 
 ## In Progress
 

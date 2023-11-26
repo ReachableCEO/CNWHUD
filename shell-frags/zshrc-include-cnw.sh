@@ -68,10 +68,6 @@ PERSONAL_OOB_USER="root"
 PERSONAL_INBAND_USER="root"
 #####################################################
 
-
-
-[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-
 #DO NOT Share history across terminals
 unsetopt    sharehistory      
 setopt no_share_history

@@ -65,3 +65,4 @@ sprints:
 - [laptop-setup-vscode-setup-coding-profile-and-all-workspaces](tasks/laptop-setup-vscode-setup-coding-profile-and-all-workspaces.md)
 - [laptop-setup-vscode-setup-documentation-workspace-profile](tasks/laptop-setup-vscode-setup-documentation-workspace-profile.md)
 - [personal-overhead-finalize-recurring-evening-routine](tasks/personal-overhead-finalize-recurring-evening-routine.md)
+- [deploy-monicacrm](tasks/deploy-monicacrm.md)

@@ -1,9 +1,6 @@
 # TSYS Technical Operations Todo
 
-## System Architect Tasks and Projects
-
-#### Charles daily driver and dev workstation
-
+- Get FetchApply setup (port newSrv.sh to it) (in progress)
 - NASA worldwind
 - google earth
 - flora
@@ -11,14 +8,11 @@
 - scansnap (and on my and shared kiosk system)
 - gephi
 - metasploit and armitage (maybe other gui as well? msfgui?)
-
-#### documentation
-
-- Adding a VPN user
-- new server setup (via assisted configuration management)
-- AD authentication (app/user)
-- Migrate final bits from IT wiki to TSYS handbook
-- Move VsCode onboarding section to main engineering onboarding section in handbook
+- TechOPS-Documentation: Adding a VPN user
+- TechOPS-Documentation:new server setup (via assisted configuration management)
+- TechOPS-Documentation: AD authentication (app/user)
+- TechOPS-Documentation: Migrate final bits from IT wiki to TSYS handbook
+- TechOPS-Documentation: Move VsCode onboarding section to main engineering onboarding section in handbook
 
 ### IT System Admin - Communications
 
@@ -27,15 +21,9 @@
 
 ### IT System Admin - Configuration Management
 
-- full netdata/librenms coverage
+- full netdata coverage
+- full librenms coverage
 - Local apt mirror
-- port newSrv.sh functions to Salt
-
-#### Creature comfort setup
-
-- powerline10k
-- fonts
-- tmux in zsh
 
 ### IT System Admin - Security/Assurance
 
@@ -60,3 +48,7 @@ This covers areas such as
 #### Internal CA
 
 - Internal CA (use XCA on an airgap workstation and XCA on CA VM with the HSM intermediate device passed through)
+
+#### Creature comfort setup
+
+- fonts

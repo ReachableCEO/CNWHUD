@@ -66,3 +66,4 @@ sprints:
 - [laptop-setup-vscode-setup-documentation-workspace-profile](tasks/laptop-setup-vscode-setup-documentation-workspace-profile.md)
 - [personal-overhead-finalize-recurring-evening-routine](tasks/personal-overhead-finalize-recurring-evening-routine.md)
 - [deploy-monicacrm](tasks/deploy-monicacrm.md)
+- [deploy-devilbox](tasks/deploy-devilbox.md)

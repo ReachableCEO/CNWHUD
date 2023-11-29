@@ -1,4 +1,4 @@
-# RannDTodo
+# RandDTodo
 
 # Shop Equipment
 

@@ -67,3 +67,4 @@ sprints:
 - [personal-overhead-finalize-recurring-evening-routine](tasks/personal-overhead-finalize-recurring-evening-routine.md)
 - [deploy-monicacrm](tasks/deploy-monicacrm.md)
 - [deploy-devilbox](tasks/deploy-devilbox.md)
+- [setup-coo-laptop-ipad-iphone](tasks/setup-coo-laptop-ipad-iphone.md)

@@ -1,0 +1,51 @@
+#examples from :
+#http://hintshop.ludvig.co.nz/show/persistent-names-usb-serial-devices/
+#https://medium.com/@inegm/persistent-names-for-usb-serial-devices-in-linux-dev-ttyusbx-dev-custom-name-fd49b5db9af1
+
+#SUBSYSTEM=="tty", ATTRS{idVendor}=="1a86", ATTRS{idProduct}=="7523", SYMLINK+="rah-ctrl"
+#SUBSYSTEM=="tty", ATTRS{idVendor}=="0403", ATTRS{idProduct}=="6001", ATTRS{serial}=="A6008isP", SYMLINK+="arduino"
+#SUBSYSTEM=="tty", ATTRS{idVendor}=="0403", ATTRS{idProduct}=="6001", ATTRS{serial}=="A7004IXj", SYMLINK+="buspirate"
+#SUBSYSTEM=="tty", ATTRS{idVendor}=="0403", ATTRS{idProduct}=="6001", ATTRS{serial}=="FTDIF46B", SYMLINK+="ttyUSB.ARM"
+
+#Apply changes via
+#
+# udevadm control --reload-rules && sudo udevadm trigger
+#
+
+
+
+
+####################################
+#USB serial for UPS 
+####################################
+
+#Bus 002 Device 045: ID 067b:2303 Prolific Technology, Inc. PL2303 Serial Port
+
+#root@pfv-vmsrv-03:~# udevadm info --name=/dev/ttyUSB2 --attribute-walk|grep -i vendor
+#    ATTRS{idVendor}=="067b"
+#    ATTRS{idVendor}=="2109"
+#    ATTRS{idVendor}=="8087"
+#    ATTRS{idVendor}=="1d6b"
+#    ATTRS{subsystem_vendor}=="0x1028"
+#    ATTRS{vendor}=="0x8086"
+
+#root@pfv-vmsrv-03:/etc/snmp# udevadm info --name=/dev/ttyUSB2 --attribute-walk|grep -i serial
+#    SUBSYSTEMS=="usb-serial"
+#    ATTRS{product}=="USB-Serial Controller"
+#    ATTRS{serial}=="0000:00:1d.0"
+
+#root@pfv-vmsrv-03:/etc/udev/rules.d#  udevadm info -a -n /dev/ttyUSB0 | grep '{serial}' | head -n1
+#    ATTRS{serial}=="0000:00:1d.0"
+
+#SUBSYSTEM=="tty", ATTRS{idVendor}=="067b", ATTRS{idProduct}=="2303", ATTRS{serial}=="0000:00:1d.0", SYMLINK+="ups4"
+SUBSYSTEM=="tty", ATTRS{idVendor}=="067b", ATTRS{idProduct}=="2303", SYMLINK+="ups4"
+
+
+####################################
+#USB serial for sifive
+####################################
+
+####################################
+#USB serial for parallella
+####################################
+

@@ -1,0 +1,41 @@
+
+Organizational Update:
+
+
+Board Of Directors (putting board candidate book together Tuesday and will host an initial meeting very soon ) . 
+
+Committes:
+
+
+TSYS Wide C-suite:
+
+
+Chief Fundraising Officer
+Chief Investment Officer 
+Chief Marketing Officer
+Chief Revenue Officer
+Chief Commons Officer
+Chief Technology / Product Officer
+Chief Science Officer 
+Chief Research Officer 
+Chief Operations/Finance Officer 
+Chief Information Technolgy / Security Officer 
+
+The C-Suite will be equal footing and will report to the board directly (into various BoD committees).
+ 
+No CEO. No central power broker. 
+
+Each C exec will have a single VP reporting to them for day-to-day decision making and overseeing the 100% computerized middle management system (Redmine). 
+
+The middle management system is fully public by the way: (with exception of ITAR restricted information, TS/SCI material, all things envelope as that's our trade secrets).
+
+https://projects.knownelement.com/projects?query_id=8 
+
+All company communications will happen via Discourse (and to a certain extent via Redmine in ticket discussions) 
+
+https://community.knownelement.com/ 
+
+I need to update the handbook: https://handbook.turnsys.com/  to reflect the new reality. 
+
+We will do everything in the open. Stakeholders of every level can participate. We are not our customer. The more that we have community interaction on a constant basis at every level
+of the organzation, the better. 

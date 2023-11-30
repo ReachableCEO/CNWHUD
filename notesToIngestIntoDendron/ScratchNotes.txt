@@ -1,0 +1,106 @@
+
+
+# Charles Scratch notes
+
+Land here before perm capture to Dendron
+
+
+
+### Server room power expenses 
+
+
+outlet 1 (compute load)
+
+Uptime	30T02:15:42
+Total power consumed: 1458.674 kWh
+Curent: 8amps 
+
+AC load was 8 to 13 amps. I will be conservative in my estimate and say 8 amps sustained and same kwh (1458).
+
+1458 *2 = 2,916 kwh 
+
+
+Reliant per kwh cost: $0.090942/kWh , so let's call it 10c comes to 291.60 
+
+12 months at 291.60 is $3,499.20
+
+I am going to round up to 300.00 per month for $3,600.00
+
+
+
+```
+
+
+## att reverse dns
+
+prov-dns@att.com 
+
+## brendan public key
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHwZmYKM1NrlX4maWvvB53SQ5QqeZLc6aAvzcgGd7WRL brendan@tsys-work
+
+
+
+Central HVAC: Goodman GSZ130601AD
+
+
+ This app is set up to authenticate with the Cloudron User Directory. Cloudron users can login and use it immediately.
+
+This app is pre-setup with an admin account. The initial credentials are:
+
+Username: admin
+Password: changeme123
+Email: admin@cloudron.local
+
+Please change the admin password and email immediately.
+
+Users from Cloudron have to be synced into Dolibarr manually by running sync-users.sh in a webterminal into the app, those can use Dolibarr but the pre-setup admin account has to be used to delegate rights to those users.
+Please see the Dolibarr documentation for helpful information and common topics on this app. If you need further help, refer to Cloudron's Dolibarr forum section.
+
+Missing Parts List For Ballon Manufacturing Prototype
+
+########## 
+BOM review conducted 1/15/2022
+
+########## Vaccum chamber
+
+* Qty 1: Diode 1 amp
+
+########## Heat Sealer
+
+Check Stock and/or order/review: 
+
+12	2	Yageo	MFR-25FBF52-100K	Digikey	100KXBK-ND	(100K) RES 100K OHM 1/4W 5% AXIAL				$0.10			https://www.digikey.com/en/products/detail/yageo/MFR-25FBF52-100K/13473?s=N4IgTCBcDaIIwAYEGkAaAhZBaAcgERAF0BfIA											
+
+
+15	1	Don’t buy yet	ARCOL / Ohmite		Mouser	284-HS15-8.0F	HSC100 100W, Power resistor Wirewound Resistor - Chassis Mount 15W 8.0 OHM1%				
+
+Needs review:
+* 14	1			HVR2500006983FR500	Mouser	594-HVR2500006983FR5	(380K resistor)  Metal Film Resistors - Through Hole 1/4watt 698Kohms 1%				$0.27			https://www.mouser.com/ProductDetail/Vishay-BC-Components/HVR2500006983FR500?qs=7DG%2Fna1Fp6uaZGlKK2m6Cg%3D%3D&mgh=1&gclid=EAIaIQobChMI_7jH84n98AIVrD6tBh2qfgucEAQYAiABEgJ5svD_BwE															
+
+Already delivered, however may be wrong item.
+
+14 https://www.digikey.com/en/products/detail/nte-electronics-inc/QW3360BR/11650180
+
+# RSS Feeds
+
+https://www.sevarg.net/
+
+
+## CEO Todo
+
+https://www.aha.io/blog/vision-vs-strategy-vs-roadmap
+https://online.hbs.edu/blog/post/what-is-value-chain-analysis
+https://www.cio.com/article/3526687/an-introduction-to-wardley-value-chain-mapping.html
+https://review.firstround.com/set-non-goals-and-build-a-product-strategy-stack-lessons-for-product-leaders
+https://www.reforge.com/blog/set-better-goals-with-ncts-not-okrs
+https://apps.dtic.mil/sti/pdfs/ADA589438.pdf
+http://www.nwlink.com/~donclark/leader/LMCC.html
+https://valeriefleonard.medium.com/what-is-organizational-capacity-and-why-should-you-care-e2b90255df52
+http://www.dodccrp.org/files/IC2J_v3n2_06_Alberts.pdf
+
+
+Re-install to D drive
+
+go
+Storyboarder

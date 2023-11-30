@@ -1,0 +1,15 @@
+
+###################################
+Physical infrastructure work
+##################################
+Rack and stack:
+  Finish galielo bringup
+  Finish parallella bringup
+
+
+Finish middleware
+Get finalized inventory into spreadsheet
+Deploy nomad/counsul across SATX/AUSLAB
+Deploy MAAS on auslab-core-rtr
+Deploy MAAS on auslab-linsrv
+(kick off Ubuntu 32/64/arm image imports at both, that will need to run for sometime)

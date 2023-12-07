@@ -44,11 +44,11 @@
 - CIO:CTOWorkstationSetup:fonts
 - CIO:CTOWorkstationSetup:powerline10k
 - CIO:CTOWorkstationSetup:posh
-- TechOPS-Documentation: Adding a VPN user
-- TechOPS-Documentation:new server setup (via assisted configuration management)
-- TechOPS-Documentation: AD authentication (app/user)
-- TechOPS-Documentation: Migrate final bits from IT wiki to TSYS handbook
-- TechOPS-Documentation: Move VsCode onboarding section to main engineering onboarding section in handbook
+- CIO:Documentation: Adding a VPN user
+- CIO:Documentation:new server setup (via assisted configuration management)
+- CIO:Documentation: AD authentication (app/user)
+- CIO:Documentation: Migrate final bits from IT wiki to TSYS handbook
+- CIO:Documentation: Move VsCode onboarding section to main engineering onboarding section in handbook
 - CIO:Communications:deploy an internal phone system and setup DID etc: <http://pnijjar.freeshell.org/2015/fusionpbx-tftp/>
 - CIO:Communications:Migrate lists.thefnf.org from tsys-cloud-www to cloudron
 - CIO:TechopsGeneral:full netdata coverage
@@ -66,28 +66,6 @@
 
 ### PCB Assembly/rework workflow
 
-#### PCB Stencil making
-
-Setup workstation on dirty shop bench to drive the Silhouette cameo cutter to make PCB stencils.
-
-Below links are a curated collection of all the particulars.
-
-- <http://pmonta.com/blog/2012/12/25/smt-stencil-cutting/>
-- <https://idleloop.com/robotics/cutter/index.php#stencil>
-- <https://github.com/pmonta/gerber2graphtec>
-- <https://bristol.hackspace.org.uk/wiki/doku.php?id=resources:making_stencils_in_the_hackspace_using_the_vinyl_cutter>
-- <https://github.com/fablabnbg/inkscape-silhouette>
-- <https://www.sparkfun.com/tutorials/383>
-- <https://omegacs.wordpress.com/2013/04/05/crazy-accurate-pcb-stencils-via-silhouette-cameo/>
-- <https://fishpepper.de/2017/09/17/vesc-diy-how-to-cut-smd-solderpaste-stencils-yourself-using-a-silhouette-craft-plotter/>
-- <https://colinoflynn.com/2014/11/smd-solder-paste-stencil-creation-with-silhouette-cameo/>
-
-#### Reflow Oven
-
-- <https://www.whizoo.com/reflowoven>
-
-we need to start at <https://www.whizoo.com/reflowoven#step16>
-
 #### Pick N Place Machine
 
 - <https://www.priority1design.com.au/DIY_pick_and_place_machine.html>
@@ -99,10 +77,6 @@ we need to start at <https://www.whizoo.com/reflowoven#step16>
 Some combination of the above is arriving (currently projected) in March 2022 from a kickstarter campaign.
 
 #### Other elements
-
-- De-ionized water
-
-### Environmental chamber
 
 ### RF Chamber
 
@@ -173,7 +147,6 @@ Idea is to use the raspi4 on the lab bench, with the various SDR/pluto USB radio
 
 ### EE
 
-- Setup bitscope <http://www.bitscope.com/software/>
 - Setup openocd server <https://forum.sparkfun.com/viewtopic.php?t=48276> and <http://openocd.org/doc/html/Server-Configuration.html>
 - Setup sigrok with logging multimeter
 
@@ -364,7 +337,23 @@ would be some things to check out.
 - sam
 - Corp CC
 - Corp Frequent Flyer
-- Create/finalize stanalone / subsidiary entities:
+- Create Emergency Action Plan
+- Gather insurance requirements
+- Obtain insurance coverage
+- Create bank account for Turn Net Systems LLC
+- Obtain EIN for Turn Net Systems LLC
+- Recover PKI safe combination
+- Update RR/Subo LLC Operating Agreements using fairshares model
+- setup designated out of band agent for business continuity in event of CEO and COO incapacity or death
+- review EAP/continuity plan generally
+- Follow fidsafe check lists
+- Upload everything into fidsafe and ensure out of band recovery agent has access
+- Photograph/inventory all TSYS Group assets
+- (re)setup Side Door PAC
+- Bring FEC paperwork current
+- Figure out FEC software
+- Update Charles Wyble Power Of Attorney and setup quarterly / yearly review
+- Create/finalize stand alone / subsidiary entities:
 - Finalize operating agreement with following series language
 
 ```

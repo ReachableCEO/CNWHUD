@@ -41,6 +41,11 @@ sprints:
 
 ## Todo
 
+- [cio-rdit-pcb-cleanup](tasks/cio-rdit-pcb-cleanup.md)
+- [cio-rdit-pcb-stencil-making](tasks/cio-rdit-pcb-stencil-making.md)
+- [cio-rdit-finish-reflow-oven-build](tasks/cio-rdit-finish-reflow-oven-build.md)
+- [cio-rdit-environmental-chamber](tasks/cio-rdit-environmental-chamber.md)
+
 ## In Progress
 
 - [laptop-setup-dotfiles](tasks/laptop-setup-dotfiles.md)

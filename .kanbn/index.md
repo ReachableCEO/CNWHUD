@@ -48,17 +48,19 @@ sprints:
 
 ## In Progress
 
-- [laptop-setup-dotfiles](tasks/laptop-setup-dotfiles.md)
+- [setup-continue-with-local-llm](tasks/setup-continue-with-local-llm.md)
 - [laptop-setup-install-all-software-packages-and-document-the-list](tasks/laptop-setup-install-all-software-packages-and-document-the-list.md)
 - [laptop-setup-setup-backup-system-local-remote-and-take-initial-backup](tasks/laptop-setup-setup-backup-system-local-remote-and-take-initial-backup.md)
 - [laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage](tasks/laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage.md)
 - [laptop-setup-live-code-streaming](tasks/laptop-setup-live-code-streaming.md)
 - [laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account](tasks/laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account.md)
 - [laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account](tasks/laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account.md)
+- [laptop-setup-dotfiles](tasks/laptop-setup-dotfiles.md)
 
 ## Done
 
 - [ensure-tsys-account-can-publish-to-github](tasks/ensure-tsys-account-can-publish-to-github.md)
+- [deploy-xilinx-ide](tasks/deploy-xilinx-ide.md)
 - [laptop-setup-finish-drive-d-data-import-eliminate-duplicates-data-location](tasks/laptop-setup-finish-drive-d-data-import-eliminate-duplicates-data-location.md)
 - [activity-watcher-instrumentation](tasks/activity-watcher-instrumentation.md)
 - [create-hud-repository](tasks/create-hud-repository.md)
@@ -73,3 +75,5 @@ sprints:
 - [deploy-monicacrm](tasks/deploy-monicacrm.md)
 - [deploy-devilbox](tasks/deploy-devilbox.md)
 - [setup-coo-laptop-ipad-iphone](tasks/setup-coo-laptop-ipad-iphone.md)
+- [deploy-paperless-ngx](tasks/deploy-paperless-ngx.md)
+- [deploy-audiobookshelf](tasks/deploy-audiobookshelf.md)

@@ -23,6 +23,10 @@ commands:
 workspace:
     vaults:
         -
+            fsPath: dependencies/localhost/CTO Stuff
+            selfContained: true
+            name: CTO Stuff
+        -
             fsPath: .
             selfContained: true
             name: public-dendron-notes
@@ -106,3 +110,8 @@ publishing:
     enableTaskNotes: true
     enablePrettyLinks: true
     searchMode: search
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - CTO Stuff
+            - public-dendron-notes

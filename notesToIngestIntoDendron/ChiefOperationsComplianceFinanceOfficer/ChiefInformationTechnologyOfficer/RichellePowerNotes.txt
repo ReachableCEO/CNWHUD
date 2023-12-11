@@ -1,0 +1,38 @@
+nov 2020 2,904 kWh
+dec 2020 2,477 kWh
+jan 2021 3,205 kWh
+feb 2021 3,107 kWh
+mar 2021 3,313 kWh
+apr 2021 3,624 kWh
+may 2021 3,834 kWh
+june 2021 4,754 kWh
+july 2021 5,014 kWh
+aug 2021 4,629 kWh
+sep 2021 5,051 kWh
+oct 2021 4,430 kWh
+nov 2021 4,029 kWh
+ 
+
+12/19/2020 	$332.24 	View bill 	Request by mail
+11/20/2020 	$388.06 	View bill 	Request by mail
+10/21/2020 	$415.60 	View bill 	Request by mail
+09/22/2020 	$531.92 	View bill 	Request by mail
+08/21/2020 	$531.44 	View bill 	Request by mail
+07/23/2020 	$609.45 	View bill 	Request by mail
+06/20/2020 	$531.71 	View bill 	Request by mail
+05/21/2020 	$401.80 	View bill 	Request by mail
+04/22/2020 	$448.83 	View bill 	Request by mail
+03/21/2020 	$224.39 	View bill 	Request by mail
+02/21/2020 	$172.08 	View bill 	Request by mail
+01/23/2020 	$137.98 	View bill 	Request by mail
+11/19/2021 	$549.35 	View bill 	Request by mail
+10/21/2021 	$603.07 	View bill 	Request by mail
+09/22/2021 	$684.74 	View bill 	Request by mail
+08/21/2021 	$598.03 	View bill 	Request by mail
+07/23/2021 	$638.15 	View bill 	Request by mail
+06/22/2021 	$602.49 	View bill 	Request by mail
+05/21/2021 	$490.87 	View bill 	Request by mail
+04/21/2021 	$464.26 	View bill 	Request by mail
+03/20/2021 	$426.44 	View bill 	Request by mail
+02/19/2021 	$411.43 	View bill 	Request by mail
+01/21/2021 	$424.76 	View bill 	Request by mail

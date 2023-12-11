@@ -49,12 +49,12 @@ sprints:
 ## In Progress
 
 - [laptop-setup-install-all-software-packages-and-document-the-list](tasks/laptop-setup-install-all-software-packages-and-document-the-list.md)
-- [setup-continue-with-local-llm](tasks/setup-continue-with-local-llm.md)
-- [laptop-setup-setup-backup-system-local-remote-and-take-initial-backup](tasks/laptop-setup-setup-backup-system-local-remote-and-take-initial-backup.md)
-- [laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage](tasks/laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage.md)
+- [laptop-setup-dotfiles](tasks/laptop-setup-dotfiles.md)
 - [laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account](tasks/laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account.md)
 - [laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account](tasks/laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account.md)
-- [laptop-setup-dotfiles](tasks/laptop-setup-dotfiles.md)
+- [laptop-setup-setup-backup-system-local-remote-and-take-initial-backup](tasks/laptop-setup-setup-backup-system-local-remote-and-take-initial-backup.md)
+- [laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage](tasks/laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage.md)
+- [setup-continue-with-local-llm](tasks/setup-continue-with-local-llm.md)
 
 ## Done
 
@@ -78,3 +78,4 @@ sprints:
 - [deploy-paperless-ngx](tasks/deploy-paperless-ngx.md)
 - [deploy-audiobookshelf](tasks/deploy-audiobookshelf.md)
 - [server-room-ac-on-net](tasks/server-room-ac-on-net.md)
+- [download-and-install-xilinx-full-suite-free](tasks/download-and-install-xilinx-full-suite-free.md)

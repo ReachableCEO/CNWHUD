@@ -77,3 +77,4 @@ sprints:
 - [setup-coo-laptop-ipad-iphone](tasks/setup-coo-laptop-ipad-iphone.md)
 - [deploy-paperless-ngx](tasks/deploy-paperless-ngx.md)
 - [deploy-audiobookshelf](tasks/deploy-audiobookshelf.md)
+- [server-room-ac-on-net](tasks/server-room-ac-on-net.md)

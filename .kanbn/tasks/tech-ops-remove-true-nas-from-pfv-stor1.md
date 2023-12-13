@@ -1,11 +1,12 @@
 ---
 created: 2023-11-23T16:07:51.627Z
-updated: 2023-11-25T22:39:42.782Z
+updated: 2023-12-13T17:49:08.071Z
 assigned: Charles
 progress: 0
 tags: []
-due: 2023-11-23T00:00:00.000Z
-started: 2023-11-22T00:00:00.000Z
+due: 2023-11-22T00:00:00.000Z
+started: 2023-11-21T00:00:00.000Z
+completed: 2023-12-09T00:00:00.000Z
 ---
 
 # TechOPS: Remove TrueNAS from pfv-stor1

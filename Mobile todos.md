@@ -1,6 +1,6 @@
 ---
 created: 2023-11-29T12:14:50-06:00
-modified: 2023-12-05T12:21:12-05:00
+modified: 2023-12-13T13:26:40-06:00
 ---
 
 # Mobile todos
@@ -17,3 +17,5 @@ https://luke.hsiao.dev/blog/housing-documentation/
 https://hazyresearch.stanford.edu/legalbench/
 
 https://about.maps.earth
+
+https://github.com/imartinez/privateGPT

@@ -17,7 +17,6 @@ sprints:
 - [photograph-and-list-inventory](tasks/photograph-and-list-inventory.md)
 - [household-maintenance-monthly-quarterly-routine](tasks/household-maintenance-monthly-quarterly-routine.md)
 - [household-maintenance-toll-billpay](tasks/household-maintenance-toll-billpay.md)
-- [vehicle-maintenance-phone-mount-mazda](tasks/vehicle-maintenance-phone-mount-mazda.md)
 - [vehicle-maintenance-mount-tahoe-dash-cam](tasks/vehicle-maintenance-mount-tahoe-dash-cam.md)
 - [ukrrs-feed-in-documents-emails-into-the-ukrrs](tasks/ukrrs-feed-in-documents-emails-into-the-ukrrs.md)
 - [vehicle-maintenance-fix-plastic-panel-on-driver-side-front-door](tasks/vehicle-maintenance-fix-plastic-panel-on-driver-side-front-door.md)

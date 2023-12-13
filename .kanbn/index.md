@@ -14,9 +14,7 @@ sprints:
 ## Backlog
 
 - [tech-ops-remove-true-nas-from-pfv-stor1](tasks/tech-ops-remove-true-nas-from-pfv-stor1.md)
-- [photograph-and-list-inventory](tasks/photograph-and-list-inventory.md)
 - [household-maintenance-monthly-quarterly-routine](tasks/household-maintenance-monthly-quarterly-routine.md)
-- [household-maintenance-toll-billpay](tasks/household-maintenance-toll-billpay.md)
 - [ukrrs-feed-in-documents-emails-into-the-ukrrs](tasks/ukrrs-feed-in-documents-emails-into-the-ukrrs.md)
 - [stl-mount-shelf-in-common-area](tasks/stl-mount-shelf-in-common-area.md)
 - [bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com.md)

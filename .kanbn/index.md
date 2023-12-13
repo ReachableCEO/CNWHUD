@@ -13,37 +13,37 @@ sprints:
 
 ## Backlog
 
-- [ukrrs-feed-in-documents-emails-into-the-ukrrs](tasks/ukrrs-feed-in-documents-emails-into-the-ukrrs.md)
-- [bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com.md)
-- [bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com.md)
-- [bizops-create-emergency-action-plan](tasks/bizops-create-emergency-action-plan.md)
+- [cio-rdit-pcb-cleanup](tasks/cio-rdit-pcb-cleanup.md)
+- [cio-rdit-environmental-chamber](tasks/cio-rdit-environmental-chamber.md)
+- [cio-rdit-pcb-stencil-making](tasks/cio-rdit-pcb-stencil-making.md)
+- [cio-rdit-finish-reflow-oven-build](tasks/cio-rdit-finish-reflow-oven-build.md)
 - [bizops-pac](tasks/bizops-pac.md)
 - [bizops-insurance](tasks/bizops-insurance.md)
 - [bizops-continunity](tasks/bizops-continunity.md)
 - [bizops-tsys-llc](tasks/bizops-tsys-llc.md)
 - [recover-pki-safe-combination](tasks/recover-pki-safe-combination.md)
 - [update-rr-subo-llc-operating-agreements-using-fairshares-model](tasks/update-rr-subo-llc-operating-agreements-using-fairshares-model.md)
-- [rack-rental-dut-finish-galielo-bringup](tasks/rack-rental-dut-finish-galielo-bringup.md)
-- [rack-rental-dut-finish-parallella-bringup](tasks/rack-rental-dut-finish-parallella-bringup.md)
-- [rack-rental-dut-finish-sifive-bringup](tasks/rack-rental-dut-finish-sifive-bringup.md)
-- [rack-rental-infrastructure-get-rackrental-router-2800-on-net](tasks/rack-rental-infrastructure-get-rackrental-router-2800-on-net.md)
-- [rack-rental-infrastructure-physical-dut-console](tasks/rack-rental-infrastructure-physical-dut-console.md)
+- [bizops-create-emergency-action-plan](tasks/bizops-create-emergency-action-plan.md)
 
 ## Todo
 
-- [cio-rdit-pcb-cleanup](tasks/cio-rdit-pcb-cleanup.md)
-- [cio-rdit-pcb-stencil-making](tasks/cio-rdit-pcb-stencil-making.md)
-- [cio-rdit-finish-reflow-oven-build](tasks/cio-rdit-finish-reflow-oven-build.md)
-- [cio-rdit-environmental-chamber](tasks/cio-rdit-environmental-chamber.md)
+- [laptop-setup-setup-backup-system-local-remote-and-take-initial-backup](tasks/laptop-setup-setup-backup-system-local-remote-and-take-initial-backup.md)
+- [cio-rdit-rack-rental-dut-finish-galielo-bringup](tasks/cio-rdit-rack-rental-dut-finish-galielo-bringup.md)
+- [cio-rdit-rack-rental-dut-finish-sifive-bringup](tasks/cio-rdit-rack-rental-dut-finish-sifive-bringup.md)
+- [cio-rdit-rack-rental-infrastructure-physical-dut-console](tasks/cio-rdit-rack-rental-infrastructure-physical-dut-console.md)
+- [cio-rdit-rack-rental-dut-finish-parallella-bringup](tasks/cio-rdit-rack-rental-dut-finish-parallella-bringup.md)
+- [cio-rdit-rack-rental-infrastructure-get-rackrental-router-2800-on-net](tasks/cio-rdit-rack-rental-infrastructure-get-rackrental-router-2800-on-net.md)
 
 ## In Progress
 
 - [laptop-setup-install-all-software-packages-and-document-the-list](tasks/laptop-setup-install-all-software-packages-and-document-the-list.md)
+- [bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com.md)
+- [bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com.md)
 - [laptop-setup-dotfiles](tasks/laptop-setup-dotfiles.md)
 - [laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account](tasks/laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account.md)
 - [laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account](tasks/laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account.md)
-- [laptop-setup-setup-backup-system-local-remote-and-take-initial-backup](tasks/laptop-setup-setup-backup-system-local-remote-and-take-initial-backup.md)
 - [laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage](tasks/laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage.md)
+- [ukrrs-feed-in-documents-emails-into-the-ukrrs](tasks/ukrrs-feed-in-documents-emails-into-the-ukrrs.md)
 - [setup-continue-with-local-llm](tasks/setup-continue-with-local-llm.md)
 
 ## Done

@@ -1,12 +1,12 @@
 ---
 created: 2023-11-25T23:27:08.143Z
-updated: 2023-11-25T23:27:54.756Z
-assigned: ""
+updated: 2023-12-13T17:53:44.074Z
+assigned: Charles
 progress: 0
 tags: []
 ---
 
-# RackRental-Infrastructure: Physical DUT Console
+# CIO:RDIT:RackRental-Infrastructure: Physical DUT Console
 
 fix cyclades ssh
 

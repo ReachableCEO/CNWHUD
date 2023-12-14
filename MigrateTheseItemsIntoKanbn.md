@@ -1,40 +1,44 @@
-- [TSYS Todo List](#tsys-todo-list)
+- [TSYS December Todo List](#tsys-december-todo-list)
+  - [Outreach/personal force multiplier](#outreachpersonal-force-multiplier)
   - [CIO](#cio)
-    - [IT System Admin - Communications](#it-system-admin---communications)
-    - [IT System Admin - Configuration Management](#it-system-admin---configuration-management)
-    - [IT System Admin - Security/Assurance](#it-system-admin---securityassurance)
-      - [SWAG/Authelia](#swagauthelia)
-      - [Internal CA](#internal-ca)
-      - [Creature comfort setup](#creature-comfort-setup)
+    - [Technical Operations](#technical-operations)
+    - [RF Chamber](#rf-chamber)
+      - [Overview](#overview)
+      - [Hardware](#hardware)
+      - [Process](#process)
+      - [Enclosure](#enclosure)
+      - [Software](#software)
+        - [SDR server](#sdr-server)
+    - [EE](#ee)
+    - [CNC/3d](#cnc3d)
+      - [CNC](#cnc)
+      - [3d printer workflow/ops](#3d-printer-workflowops)
+    - [Documentation of existing POC](#documentation-of-existing-poc)
   - [COO](#coo)
     - [InProgress](#inprogress)
     - [ERPNEXT](#erpnext)
     - [Bizops General](#bizops-general)
     - [Bizops Marketing](#bizops-marketing)
     - [Follow up on these](#follow-up-on-these)
-  - [CTO](#cto)
-    - [PCB Assembly/rework workflow](#pcb-assemblyrework-workflow)
-      - [PCB Stencil making](#pcb-stencil-making)
-      - [Reflow Oven](#reflow-oven)
-      - [Pick N Place Machine](#pick-n-place-machine)
-      - [Other elements](#other-elements)
-    - [Environmental chamber](#environmental-chamber)
-    - [RF Chamber](#rf-chamber)
-      - [Overview](#overview)
-      - [Hardware](#hardware)
-      - [Process](#process)
-      - [Enclosure](#enclosure)
-    - [Software](#software)
-      - [SDR server](#sdr-server)
-    - [EE](#ee)
-    - [CNC/3d](#cnc3d)
-      - [CNC](#cnc)
-      - [3d printer workflow/ops](#3d-printer-workflowops)
-    - [Documentation of existing POC](#documentation-of-existing-poc)
 
 # TSYS December Todo List
 
+## Outreach/personal force multiplier
+
+* Setup automations to alert me via pushover to take breaks, drink water, switch locations etc
+
+* gym bag tweaks / finalization
+* IOS Focus modes tweaks
+* daily routine support system (IOS app? desktop?) (i want reporting on progress/missing objectives etc)
+
+* Finish paypal/venmo/cash app/buy me a coffee/patreon/librepay/github sponsors profile/banking setup
+* Finish video streaming setup (OpenStreamingPlatform for self host (canonical source) and OBS to a proxy out to YT/FB/Twitch)
+* Setup wordpress cross posting to discord/discourse/facebook/linked in/twitter 
+* Get all contacts consolidated and into Monica CRM
+
 ## CIO
+
+### Technical Operations
 
 - CIO:TechopsGeneral:Get FetchApply setup (port newSrv.sh to it) 
 - CIO:CTOWorkStation:google earth
@@ -61,22 +65,10 @@
 - CIO:SecOps:Auth:Setup authelia <https://github.com/linuxserver/docker-swag> <https://github.com/authelia/authelia> <https://www.linuxserver.io/blog/2020-08-26-setting-up-authelia>
 - CIO:SecOps: Setup Internal CA (offline root CA : use XCA on an airgap workstation and XCA on CA VM with the HSM intermediate device passed through)
 - CIO:LabSetup:scansnap (on my laptop and lab laptop)
-
-## CTO
-
-### PCB Assembly/rework workflow
-
-#### Pick N Place Machine
-
-- <https://www.priority1design.com.au/DIY_pick_and_place_machine.html>
-- <https://mcuoneclipse.com/2018/06/26/building-a-diy-smt-pickplace-machine-with-openpnp/>
-- <https://dzone.com/articles/diy-smt-pick-and-place-machine-with-openpnp>
-- <https://hackaday.com/2015/02/06/a-diy-pick-and-place-you-can-build-right-now/>
-- <https://docs.indexmachines.io/docs/>
-
-Some combination of the above is arriving (currently projected) in March 2022 from a kickstarter campaign.
-
-#### Other elements
+- CIO: Get FetchApply setup (port newSrv.sh to it) (in progress)
+- CIO: System / dashboard inventory (merge into handbook) (in progress)
+- CIO: pfv-nas-04 (netapp) (racked, powered, console access setup, need to factory reset)
+- CIO: UPS (blocked)
 
 ### RF Chamber
 
@@ -124,7 +116,7 @@ to categorize
 
 
 
-### Software
+#### Software
 
 - <https://github.com/AD-Vega/rtl-power-fftw>
 - <http://swigerco.com/gnuradio/>
@@ -133,7 +125,7 @@ to categorize
 - <http://ab-initio.mit.edu/wiki/index.php?title=Meep>
 - <https://github.com/AlexandreRouma/SDRPlusPlus/releases>
 
-#### SDR server
+##### SDR server
 
 Idea is to use the raspi4 on the lab bench, with the various SDR/pluto USB radios hung off it and stream the output to the (either/or) upstairs GPU farm or downstairs gpu/cpu server farm for processing.
 

@@ -24,16 +24,13 @@
 # TSYS December Todo List
 
 ## Outreach/personal force multiplier
-
 * Setup automations to alert me via pushover to take breaks, drink water, switch locations etc
-
-* gym bag tweaks / finalization
-* IOS Focus modes tweaks
-
 * Finish paypal/venmo/cash app/buy me a coffee/patreon/librepay/github sponsors profile/banking setup
 * Finish video streaming setup (OpenStreamingPlatform for self host (canonical source) and OBS to a proxy out to YT/FB/Twitch)
-* Setup wordpress cross posting to discord/discourse/facebook/linked in/twitter 
+* IOS Focus modes tweaks
 * Get all contacts consolidated and into Monica CRM
+* gym bag tweaks / finalization
+* Setup wordpress cross posting to discord/discourse/facebook/linked in/twitter 
 
 ## CIO
 

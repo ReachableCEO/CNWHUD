@@ -29,7 +29,6 @@
 
 * gym bag tweaks / finalization
 * IOS Focus modes tweaks
-* daily routine support system (IOS app? desktop?) (i want reporting on progress/missing objectives etc)
 
 * Finish paypal/venmo/cash app/buy me a coffee/patreon/librepay/github sponsors profile/banking setup
 * Finish video streaming setup (OpenStreamingPlatform for self host (canonical source) and OBS to a proxy out to YT/FB/Twitch)

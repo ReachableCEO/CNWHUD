@@ -1,6 +1,6 @@
 ---
 created: 2023-11-29T12:14:50-06:00
-modified: 2023-12-13T13:26:40-06:00
+modified: 2023-12-20T12:44:34-06:00
 ---
 
 # Mobile todos
@@ -19,3 +19,6 @@ https://hazyresearch.stanford.edu/legalbench/
 https://about.maps.earth
 
 https://github.com/imartinez/privateGPT
+
+
+https://github.com/vanila-io/wireflow

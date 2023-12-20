@@ -72,3 +72,4 @@ sprints:
 - [household-maintenance-process-mail-backlog](tasks/household-maintenance-process-mail-backlog.md)
 - [stl-mount-shelf-in-common-area](tasks/stl-mount-shelf-in-common-area.md)
 - [tech-ops-remove-true-nas-from-pfv-stor1](tasks/tech-ops-remove-true-nas-from-pfv-stor1.md)
+- [switch-to-new-habit-tracking-app](tasks/switch-to-new-habit-tracking-app.md)

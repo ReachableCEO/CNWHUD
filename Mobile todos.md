@@ -1,6 +1,6 @@
 ---
 created: 2023-11-29T12:14:50-06:00
-modified: 2023-12-21T06:02:45-06:00
+modified: 2023-12-21T06:02:56-06:00
 ---
 
 # Mobile todos
@@ -28,3 +28,7 @@ https://github.com/imartinez/privateGPT
 
 
 https://github.com/vanila-io/wireflow
+
+
+
+https://github.com/MeetKai/functionary/

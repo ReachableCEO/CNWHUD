@@ -1,6 +1,6 @@
 ---
 created: 2023-11-29T12:14:50-06:00
-modified: 2023-12-27T19:22:12-05:00
+modified: 2023-12-27T20:16:22-05:00
 ---
 
 # Mobile todos
@@ -37,3 +37,5 @@ https://github.com/MeetKai/functionary/
 https://www.docuseal.co/install
 
 https://github.com/ShishirPatil/gorilla
+
+https://github.com/openvmp/partcad

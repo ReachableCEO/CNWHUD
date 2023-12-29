@@ -1,6 +1,6 @@
 ---
 created: 2023-11-29T12:14:50-06:00
-modified: 2023-12-28T08:32:38-05:00
+modified: 2023-12-29T13:10:28-05:00
 ---
 
 # Mobile todos
@@ -41,3 +41,5 @@ https://www.docuseal.co/install
 https://github.com/openvmp/partcad
 
 https://news.ycombinator.com/item?id=38785458
+
+https://github.com/kuchin/awesome-cto

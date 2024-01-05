@@ -1,6 +1,6 @@
 ---
 created: 2023-11-29T12:14:50-06:00
-modified: 2024-01-04T21:48:01-05:00
+modified: 2024-01-04T21:49:07-05:00
 ---
 
 # Mobile todos
@@ -46,3 +46,5 @@ https://github.com/kuchin/awesome-cto
 
 
 https://theartofhpc.com
+
+https://zachgoldberg.com/ctohandbook/

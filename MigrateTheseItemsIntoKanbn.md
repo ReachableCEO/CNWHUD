@@ -26,17 +26,14 @@
 ## Outreach/personal force multiplier
 * Setup automations to alert me via pushover to take breaks, drink water, switch locations etc
 * Finish paypal/venmo/cash app/buy me a coffee/patreon/librepay/github sponsors profile/banking setup
-* Finish video streaming setup (OpenStreamingPlatform for self host (canonical source) and OBS to a proxy out to YT/FB/Twitch)
-* IOS Focus modes tweaks
 * Get all contacts consolidated and into Monica CRM
-* gym bag tweaks / finalization
 * Setup wordpress cross posting to discord/discourse/facebook/linked in/twitter 
 
 ## CIO
 
 ### Technical Operations
 
-- CIO:TechopsGeneral:Get FetchApply setup (port newSrv.sh to it) 
+- CIO:Communications:Migrate lists.thefnf.org from tsys-cloud-www to cloudron
 - CIO:CTOWorkStation:google earth
 - CIO:CTOWorkstation:flora
 - CIO:CTOWorkstation:gephi
@@ -45,26 +42,14 @@
 - CIO:CTOWorkstationSetup:powerline10k
 - CIO:CTOWorkstationSetup:posh
 - CIO:Documentation: Adding a VPN user
-- CIO:Documentation:new server setup (via assisted configuration management)
-- CIO:Documentation: AD authentication (app/user)
 - CIO:Documentation: Migrate final bits from IT wiki to TSYS handbook
 - CIO:Documentation: Move VsCode onboarding section to main engineering onboarding section in handbook
-- CIO:Communications:deploy an internal phone system and setup DID etc: <http://pnijjar.freeshell.org/2015/fusionpbx-tftp/>
-- CIO:Communications:Migrate lists.thefnf.org from tsys-cloud-www to cloudron
-- CIO:TechopsGeneral:full netdata coverage
-- CIO:TechopsGeneral:full librenms coverage
-- CIO:TechopsGeneral:Local apt mirror
-- CIO:SecOPS:Setup IDS
-- CIO:SecOps:Setup IPS
-- CIO:SecOps:Setup outbound web proxy for server and classified user networks
-- CIO:SecOps:Setup ICAP clamav scanning on outbound web proxy
 - CIO:SecOps:Auth:Setup authelia <https://github.com/linuxserver/docker-swag> <https://github.com/authelia/authelia> <https://www.linuxserver.io/blog/2020-08-26-setting-up-authelia>
 - CIO:SecOps: Setup Internal CA (offline root CA : use XCA on an airgap workstation and XCA on CA VM with the HSM intermediate device passed through)
-- CIO:LabSetup:scansnap (on my laptop and lab laptop)
 - CIO: Get FetchApply setup (port newSrv.sh to it) (in progress)
 - CIO: System / dashboard inventory (merge into handbook) (in progress)
-- CIO: pfv-nas-04 (netapp) (racked, powered, console access setup, need to factory reset)
 - CIO: UPS (blocked)
+- CIO:LabSetup:scansnap (on my laptop and lab laptop)
 
 ### RF Chamber
 

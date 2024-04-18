@@ -37,11 +37,8 @@ sprints:
 ## In Progress
 
 - [laptop-setup-install-all-software-packages-and-document-the-list](tasks/laptop-setup-install-all-software-packages-and-document-the-list.md)
-- [bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com.md)
 - [bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com.md)
 - [laptop-setup-dotfiles](tasks/laptop-setup-dotfiles.md)
-- [laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account](tasks/laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account.md)
-- [laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account](tasks/laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account.md)
 - [laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage](tasks/laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage.md)
 - [ukrrs-feed-in-documents-emails-into-the-ukrrs](tasks/ukrrs-feed-in-documents-emails-into-the-ukrrs.md)
 - [setup-continue-with-local-llm](tasks/setup-continue-with-local-llm.md)
@@ -49,7 +46,10 @@ sprints:
 ## Done
 
 - [laptop-setup-live-code-streaming](tasks/laptop-setup-live-code-streaming.md)
+- [bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com.md)
 - [ensure-tsys-account-can-publish-to-github](tasks/ensure-tsys-account-can-publish-to-github.md)
+- [laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account](tasks/laptop-setup-vscode-setup-personal-kb-notes-workspace-profile-offstage-account.md)
+- [laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account](tasks/laptop-setup-vscode-setup-kb-notes-workspace-profile-tsys-account.md)
 - [deploy-xilinx-ide](tasks/deploy-xilinx-ide.md)
 - [laptop-setup-finish-drive-d-data-import-eliminate-duplicates-data-location](tasks/laptop-setup-finish-drive-d-data-import-eliminate-duplicates-data-location.md)
 - [activity-watcher-instrumentation](tasks/activity-watcher-instrumentation.md)

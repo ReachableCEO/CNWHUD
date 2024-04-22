@@ -1,25 +1,167 @@
-# TSYS R&D Todo list
+TSYS infrastructure Todo
 
-- [TSYS R\&D Todo list](#tsys-rd-todo-list)
+This documents the last few items for Charles to deliver as CIO. Charles is doing Core IT/business enablement and handling moving all the data off his laptop and into the systems.
+
+Albert will run everything day to day as COO. Patti will handle everything finance related.
+
+
+- [Misc](#misc)
+- [CIO/enterprise IT/Platform IT (due by end of day Sunday)](#cioenterprise-itplatform-it-due-by-end-of-day-sunday)
+- [CTO Techops (due by 05/29) (with core setup done by 04/29)](#cto-techops-due-by-0529-with-core-setup-done-by-0429)
+  - [General utiliy / enablement](#general-utiliy--enablement)
+  - [Technical Operations](#technical-operations)
+  - [Documentation of existing POC](#documentation-of-existing-poc)
+  - [ETL framework](#etl-framework)
+  - [R\&D CTO enablement](#rd-cto-enablement)
+  - [Mobile todos](#mobile-todos)
+  - [Geospatial stack](#geospatial-stack)
+  - [Grib and other weather data processing](#grib-and-other-weather-data-processing)
+- [Electronic Design Automation stack](#electronic-design-automation-stack)
   - [RF Chamber](#rf-chamber)
-    - [Overview](#overview)
-    - [Hardware](#hardware)
-      - [Process](#process)
-    - [Enclosure](#enclosure)
-    - [to categorize](#to-categorize)
-    - [Software](#software)
-      - [SDR server](#sdr-server)
-    - [EE](#ee)
-  - [CNC/3d printing](#cnc3d-printing)
-    - [CNC](#cnc)
-    - [3d printer workflow/ops](#3d-printer-workflowops)
-    - [OpenScan 3d scanner](#openscan-3d-scanner)
-    - [Misc notes](#misc-notes)
+  - [Overview](#overview)
+  - [Hardware](#hardware)
+    - [Process](#process)
+  - [Enclosure](#enclosure)
+  - [to categorize](#to-categorize)
+  - [Software](#software)
+    - [SDR server](#sdr-server)
+  - [EE](#ee)
+- [CNC/3d printing](#cnc3d-printing)
+  - [CNC](#cnc)
+  - [3d printer workflow/ops](#3d-printer-workflowops)
+  - [OpenScan 3d scanner](#openscan-3d-scanner)
+  - [Misc notes](#misc-notes)
 
 
-Target completion: 05/30/2024
+## Misc
 
-## RF Chamber
+- Setup automations to alert me via pushover to take breaks, drink water, switch locations etc
+- Finish paypal/venmo/cash app/buy me a coffee/patreon/librepay/github sponsors profile/banking setup
+- Get all contacts consolidated and into Monica CRM
+- Setup wordpress cross posting to discord/discourse/facebook/linked in/twitter
+- <https://news.ycombinator.com/item?id=10884209>
+- <<https://news.ycombinator.com/item?id=10833213>
+
+## CIO/enterprise IT/Platform IT (due by end of day Sunday)
+
+- Out of box experience erp instances
+- Setup cloudron backups to b2
+- Fix nextcloud file lock issue
+- Static file hosting… mdbook/mkdocs -> cloudron surfer? also gitea actions and woodpecker CI to sync to surfer? Or if staying with markdown , GitHub pages? Also grav with git sync plugin is looking tempting.
+- Copy data to cloudron from zfs drives
+- Configure discourse elasticsearch full text search
+- configure nextcloud elasticsearch full text search
+
+## CTO Techops (due by 05/29) (with core setup done by 04/29)
+
+### General utiliy / enablement
+
+- draw.io  server (<https://www.drawio.com/blog/diagrams-docker-app>) for nextcloud to utilize
+- Librenms docker
+- Grocy on home assistant
+- Setup dashboard container from conhost
+- draw.io server (<https://www.drawio.com/blog/diagrams-docker-app>) for nextcloud to utilize
+- Setup LocalAI
+- Setup LibreTranslate
+- Setup elasticsearch
+- Woodpecker agent on all three tsys systems (agent registers to woodpecker via web sockets) (this gets us CI/CD runners)
+- Dokku paas (Ubuntu server hyper v virtual machines) (will be used for tsys custom apps like hfnoc signup) (tie in via tailscale using app proxy on cloudron)
+- Minio configuration
+- Vault configuration
+- Docker registry: <https://goharbor.io/docs/2.10.0/administration/>
+
+### Technical Operations
+
+- CIO:Communications:Migrate lists.thefnf.org from tsys-cloud-www to cloudron
+- CIO:CTOWorkStation:google earth
+- CIO:CTOWorkstation:flora
+- CIO:CTOWorkstation:gephi
+- CIO:CTOWorkstationSetup:metasploit and armitage (maybe other gui as well? msfgui?)
+- CIO:Documentation: Migrate final bits from IT wiki to TSYS handbook
+- CIO:Documentation: Move VsCode onboarding section to main engineering onboarding section in handbook
+- CIO:SecOps: Setup Internal CA (offline root CA : use XCA on an airgap workstation and XCA on CA VM with the HSM intermediate device passed through)
+- CIO:LabSetup:scansnap (on my laptop and lab laptop)
+
+### Documentation of existing POC
+
+- POC Hardware
+- Software Engineering tooling stack
+- Hardware Engineering tooling stack
+- Mechanical/Industrial design tooling stack
+- Software Engineering supply chain (software components) stack
+- Hardware Engineering supply chain (hardware/software components ) stack
+
+### ETL framework
+
+- [https://seatunnel.apache.org](https://seatunnel.apache.org/)
+
+### R&D CTO enablement
+
+- sdrangel on tsys3 (hook up rf kit to usb)
+- resgrid [https://resgrid.com](https://resgrid.com/) (will be an end of workflow step for shipping to customer)
+- sqlfluff in ci/cd [https://sqlfluff.com](https://sqlfluff.com/)
+- Setup inventree ([https://inventree.org](https://inventree.org/))
+- Deploy kicad container for ci/cd
+- <https://www.kicad.org/download/docker/>
+- <https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/>
+- <https://news.ycombinator.com/item?id=35922207>
+- <https://github.com/INTI-CMNB/kicad-ci-test-spora>
+- LORA management server : chirpstack ([https://www.chirpstack.io](https://www.chirpstack.io/))
+- OTA updates system (mender : <https://github.com/mendersoftware>)
+
+### Mobile todos
+
+<https://www.waveterm.dev>
+<https://news.ycombinator.com/item?id=38461101>
+<https://news.ycombinator.com/item?id=37800951>
+<https://luke.hsiao.dev/blog/housing-documentation/>
+<https://hazyresearch.stanford.edu/legalbench/>
+<https://about.maps.earth>
+<https://github.com/imartinez/privateGPT>
+<https://github.com/vanila-io/wireflow>
+<https://medium.com/@DiggerHQ/5-open-source-alternatives-to-your-current-infrastructure-tool-stack-3e66a17728ac>
+<https://github.com/MeetKai/functionary>
+<https://github.com/ShishirPatil/gorilla>
+<https://github.com/openvmp/partcad>
+<https://news.ycombinator.com/item?id=38785458>
+<https://github.com/kuchin/awesome-cto>
+<https://theartofhpc.com>
+<https://zachgoldberg.com/ctohandbook/>
+
+
+### Geospatial stack
+
+- <https://wcedmisten.fyi/post/self-hosting-osm/>
+- [https://openmaptiles.org](https://openmaptiles.org/)
+- <https://www.maptiler.com/server/openstreetmap/>
+- <https://www.muckrock.com/news/archives/2024/feb/13/release-notes-how-to-make-self-hosted-maps-that-work-everywhere-cost-next-to-nothing-and-might-even-work-in-airplane-mode/>
+- <https://gist.github.com/jbaranski/1c2373314a1e4b987e012aa8ebc5f18e>
+- <https://simonwillison.net/2021/Feb/4/datasette-tiles/>
+- <https://switch2osm.org/serving-tiles/>
+- <https://hub.docker.com/r/maptiler/tileserver-gl>
+- <https://blog.rtwilson.com/simple-self-hosted-openstreetmap-routing-using-valhalla-and-docker/>
+- <https://hub.docker.com/r/postgis/postgis/>
+
+### Grib and other weather data processing
+
+- <https://github.com/DeutscherWetterdienst/python-eccodes?tab=readme-ov-file>
+- <https://epic.noaa.gov/get-code/short-range-weather/>
+- <https://ufs-srweather-app.readthedocs.io/en/release-public-v2.2.0/BuildingRunningTesting/ContainerQuickstart.html#quickstartc>
+- <https://github.com/JCSDA/spack-stack>
+- <https://ioos.github.io/erddap-gold-standard/>
+- <https://epic.noaa.gov/land-data-assimilation-system/>
+- <https://www.weather.gov/climateservices/nowdatafaq>
+
+## Electronic Design Automation stack
+
+- [https://www.klayout.de](https://www.klayout.de/)
+- <https://semiwiki.com/wikis/industry-wikis/eda-open-source-tools-wiki/>
+- <https://opencores.org/howto/eda>
+- <http://opencircuitdesign.com/magic/>
+- <https://github.com/RTimothyEdwards/magic>
+- [https://open-source-silicon.dev](https://open-source-silicon.dev/)
+
+### RF Chamber
 
 ### Overview
 

@@ -33,36 +33,30 @@ Albert will run everything day to day as COO. Patti will handle everything finan
   - [Misc notes](#misc-notes)
 
 
-## Misc
-
-- Setup automations to alert me via pushover to take breaks, drink water, switch locations etc
-- Finish paypal/venmo/cash app/buy me a coffee/patreon/librepay/github sponsors profile/banking setup
-- Get all contacts consolidated and into Monica CRM
-- Setup wordpress cross posting to discord/discourse/facebook/linked in/twitter
-- <https://news.ycombinator.com/item?id=10884209>
-- <<https://news.ycombinator.com/item?id=10833213>
-
-## CIO/enterprise IT/Platform IT (due by end of day Sunday)
 
 
-- Get woodpecker agent configured and deployed on all three docker hosts 
-- Deploy NetBird 
-- Create comprehensive docker container list and pull to tsys1
+## CIO/enterprise IT/Platform IT (due by end of day 05/11/2024)
+
+
+
+- Deploy NetBird and migrate from tailscale 
 - Setup cloudron backups to b2
 - Fix nextcloud file lock issue
 - Static file hosting… mdbook/mkdocs -> cloudron surfer? also gitea actions and woodpecker CI to sync to surfer? Or if staying with markdown , GitHub pages? Also grav with git sync plugin is looking tempting.
 - Configure discourse elasticsearch full text search
 - configure nextcloud elasticsearch full text search
+- Migrate lists.thefnf.org from tsys-cloud-www to cloudron
+- Setup Internal CA (offline root CA): use XCA on an airgap workstation and XCA on CA VM with the HSM intermediate device passed through
 
 ## CTO Techops (due by 05/29) (with core setup done by 04/29)
 
 ### General utiliy / enablement
 
+
+- Get woodpecker agent configured and deployed on all three docker hosts 
 - draw.io  server (<https://www.drawio.com/blog/diagrams-docker-app>) for nextcloud to utilize
-- Librenms docker
 - Grocy on home assistant
 - Setup dashboard container from conhost
-- draw.io server (<https://www.drawio.com/blog/diagrams-docker-app>) for nextcloud to utilize
 - Setup LocalAI
 - Setup LibreTranslate
 - Setup elasticsearch
@@ -71,17 +65,13 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 - Minio configuration
 - Vault configuration
 - Docker registry: <https://goharbor.io/docs/2.10.0/administration/>
-
-### Technical Operations
-
-- CIO:Communications:Migrate lists.thefnf.org from tsys-cloud-www to cloudron
 - CIO:CTOWorkStation:google earth
 - CIO:CTOWorkstation:flora
 - CIO:CTOWorkstation:gephi
 - CIO:CTOWorkstationSetup:metasploit and armitage (maybe other gui as well? msfgui?)
 - CIO:Documentation: Migrate final bits from IT wiki to TSYS handbook
 - CIO:Documentation: Move VsCode onboarding section to main engineering onboarding section in handbook
-- CIO:SecOps: Setup Internal CA (offline root CA : use XCA on an airgap workstation and XCA on CA VM with the HSM intermediate device passed through)
+- )
 - CIO:LabSetup:scansnap (on my laptop and lab laptop)
 
 ### Documentation of existing POC
@@ -99,6 +89,7 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 
 ### R&D CTO enablement
 
+- Create comprehensive docker container list and pull to tsys1
 - sdrangel on tsys3 (hook up rf kit to usb)
 - resgrid [https://resgrid.com](https://resgrid.com/) (will be an end of workflow step for shipping to customer)
 - sqlfluff in ci/cd [https://sqlfluff.com](https://sqlfluff.com/)

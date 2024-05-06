@@ -6,6 +6,14 @@
 
 # COO Todo items
 
+
+- Setup automations to alert me via pushover to take breaks, drink water, switch locations etc
+- Finish paypal/venmo/cash app/buy me a coffee/patreon/librepay/github sponsors profile/banking setup
+- Get all contacts consolidated and into Monica CRM
+- Setup wordpress cross posting to discord/discourse/facebook/linked in/twitter
+- <https://news.ycombinator.com/item?id=10884209>
+- <<https://news.ycombinator.com/item?id=10833213>
+
 - Entity stuff For all TSYS components:
   - HFNOC/HFNFC
   - AFABN

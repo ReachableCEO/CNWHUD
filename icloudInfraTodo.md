@@ -38,21 +38,23 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 ## CIO/enterprise IT/Platform IT (due by end of day 05/11/2024)
 
 
-
-- Deploy NetBird and migrate from tailscale 
+- Restore pfv-filesrv to service from backup 
+- Get scansnap setup on office lab PC 
 - Setup cloudron backups to b2
+- Migrate lists.thefnf.org from tsys-cloud-www to cloudron
+- Finish migrating final Wordpress instances from LAMP to unmanaged Wordpress 
 - Fix nextcloud file lock issue
 - Static file hosting… mdbook/mkdocs -> cloudron surfer? also gitea actions and woodpecker CI to sync to surfer? Or if staying with markdown , GitHub pages? Also grav with git sync plugin is looking tempting.
-- Configure discourse elasticsearch full text search
-- configure nextcloud elasticsearch full text search
-- Migrate lists.thefnf.org from tsys-cloud-www to cloudron
+- Deploy NetBird and migrate from tailscale 
 - Setup Internal CA (offline root CA): use XCA on an airgap workstation and XCA on CA VM with the HSM intermediate device passed through
+
 
 ## CTO Techops (due by 05/29) (with core setup done by 04/29)
 
 ### General utiliy / enablement
 
-
+- Configure discourse elasticsearch full text search
+- configure nextcloud elasticsearch full text search
 - Get woodpecker agent configured and deployed on all three docker hosts 
 - draw.io  server (<https://www.drawio.com/blog/diagrams-docker-app>) for nextcloud to utilize
 - Grocy on home assistant

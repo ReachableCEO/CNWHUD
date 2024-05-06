@@ -44,11 +44,13 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 
 ## CIO/enterprise IT/Platform IT (due by end of day Sunday)
 
-- Out of box experience erp instances
+
+- Get woodpecker agent configured and deployed on all three docker hosts 
+- Deploy NetBird 
+- Create comprehensive docker container list and pull to tsys1
 - Setup cloudron backups to b2
 - Fix nextcloud file lock issue
 - Static file hosting… mdbook/mkdocs -> cloudron surfer? also gitea actions and woodpecker CI to sync to surfer? Or if staying with markdown , GitHub pages? Also grav with git sync plugin is looking tempting.
-- Copy data to cloudron from zfs drives
 - Configure discourse elasticsearch full text search
 - configure nextcloud elasticsearch full text search
 

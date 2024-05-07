@@ -38,8 +38,9 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 ## CIO/enterprise IT/Platform IT (due by end of day 05/11/2024)
 
 
+- get IOS contact and calendar sync working 
 - Restore pfv-filesrv to service from backup 
-- Get scansnap setup on office lab PC 
+- Get scansnap setup on office lab PC (scansnap s1500).
 - Setup cloudron backups to b2
 - Migrate lists.thefnf.org from tsys-cloud-www to cloudron
 - Finish migrating final Wordpress instances from LAMP to unmanaged Wordpress 

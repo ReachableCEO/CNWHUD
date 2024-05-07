@@ -4,20 +4,14 @@ This documents the last few items for Charles to deliver as CIO. Charles is doin
 
 Albert will run everything day to day as COO. Patti will handle everything finance related.
 
-
-- [Misc](#misc)
-- [CIO/enterprise IT/Platform IT (due by end of day Sunday)](#cioenterprise-itplatform-it-due-by-end-of-day-sunday)
-- [CTO Techops (due by 05/29) (with core setup done by 04/29)](#cto-techops-due-by-0529-with-core-setup-done-by-0429)
-  - [General utiliy / enablement](#general-utiliy--enablement)
-  - [Technical Operations](#technical-operations)
-  - [Documentation of existing POC](#documentation-of-existing-poc)
-  - [ETL framework](#etl-framework)
+- [CTO Techops (due by 05/29) (with core setup done by 05/17)](#cto-techops-due-by-0529-with-core-setup-done-by-0517)
   - [R\&D CTO enablement](#rd-cto-enablement)
   - [Mobile todos](#mobile-todos)
+  - [ETL framework](#etl-framework)
   - [Geospatial stack](#geospatial-stack)
   - [Grib and other weather data processing](#grib-and-other-weather-data-processing)
 - [Electronic Design Automation stack](#electronic-design-automation-stack)
-  - [RF Chamber](#rf-chamber)
+- [RF Chamber](#rf-chamber)
   - [Overview](#overview)
   - [Hardware](#hardware)
     - [Process](#process)
@@ -31,69 +25,25 @@ Albert will run everything day to day as COO. Patti will handle everything finan
   - [3d printer workflow/ops](#3d-printer-workflowops)
   - [OpenScan 3d scanner](#openscan-3d-scanner)
   - [Misc notes](#misc-notes)
+  - [Documentation of existing POC](#documentation-of-existing-poc)
 
+## CTO Techops (due by 05/29) (with core setup done by 05/17)
 
+- CIO:Documentation: Migrate final bits from IT wiki to TSYS handbook
+- CIO:Documentation: Move VsCode onboarding section to main engineering onboarding section in handbook
 
+### R&D CTO enablement
 
-## CIO/enterprise IT/Platform IT (due by end of day 05/11/2024)
-
-
-- get IOS contact and calendar sync working 
-- Restore pfv-filesrv to service from backup 
-- Get scansnap setup on office lab PC (scansnap s1500).
-- Setup cloudron backups to b2
-- Migrate lists.thefnf.org from tsys-cloud-www to cloudron
-- Finish migrating final Wordpress instances from LAMP to unmanaged Wordpress 
-- Fix nextcloud file lock issue
-- Static file hosting… mdbook/mkdocs -> cloudron surfer? also gitea actions and woodpecker CI to sync to surfer? Or if staying with markdown , GitHub pages? Also grav with git sync plugin is looking tempting.
-- Deploy NetBird and migrate from tailscale 
-- Setup Internal CA (offline root CA): use XCA on an airgap workstation and XCA on CA VM with the HSM intermediate device passed through
-
-
-## CTO Techops (due by 05/29) (with core setup done by 04/29)
-
-### General utiliy / enablement
-
-- Configure discourse elasticsearch full text search
-- configure nextcloud elasticsearch full text search
-- Get woodpecker agent configured and deployed on all three docker hosts 
 - draw.io  server (<https://www.drawio.com/blog/diagrams-docker-app>) for nextcloud to utilize
-- Grocy on home assistant
 - Setup dashboard container from conhost
 - Setup LocalAI
 - Setup LibreTranslate
 - Setup elasticsearch
-- Woodpecker agent on all three tsys systems (agent registers to woodpecker via web sockets) (this gets us CI/CD runners)
 - Dokku paas (Ubuntu server hyper v virtual machines) (will be used for tsys custom apps like hfnoc signup) (tie in via tailscale using app proxy on cloudron)
 - Minio configuration
 - Vault configuration
 - Docker registry: <https://goharbor.io/docs/2.10.0/administration/>
-- CIO:CTOWorkStation:google earth
-- CIO:CTOWorkstation:flora
-- CIO:CTOWorkstation:gephi
-- CIO:CTOWorkstationSetup:metasploit and armitage (maybe other gui as well? msfgui?)
-- CIO:Documentation: Migrate final bits from IT wiki to TSYS handbook
-- CIO:Documentation: Move VsCode onboarding section to main engineering onboarding section in handbook
-- )
-- CIO:LabSetup:scansnap (on my laptop and lab laptop)
-
-### Documentation of existing POC
-
-- POC Hardware
-- Software Engineering tooling stack
-- Hardware Engineering tooling stack
-- Mechanical/Industrial design tooling stack
-- Software Engineering supply chain (software components) stack
-- Hardware Engineering supply chain (hardware/software components ) stack
-
-### ETL framework
-
-- [https://seatunnel.apache.org](https://seatunnel.apache.org/)
-
-### R&D CTO enablement
-
-- Create comprehensive docker container list and pull to tsys1
-- sdrangel on tsys3 (hook up rf kit to usb)
+- sdrangel on tsys3
 - resgrid [https://resgrid.com](https://resgrid.com/) (will be an end of workflow step for shipping to customer)
 - sqlfluff in ci/cd [https://sqlfluff.com](https://sqlfluff.com/)
 - Setup inventree ([https://inventree.org](https://inventree.org/))
@@ -104,15 +54,18 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 - <https://github.com/INTI-CMNB/kicad-ci-test-spora>
 - LORA management server : chirpstack ([https://www.chirpstack.io](https://www.chirpstack.io/))
 - OTA updates system (mender : <https://github.com/mendersoftware>)
+- CIO:CTOWorkStation:google earth
+- CIO:CTOWorkstation:flora
+- CIO:CTOWorkstation:gephi
+- CIO:CTOWorkstationSetup:metasploit and armitage (maybe other gui as well? msfgui?)
+- Create comprehensive docker container list and pull to tsys1
 
 ### Mobile todos
 
-<https://www.waveterm.dev>
 <https://news.ycombinator.com/item?id=38461101>
 <https://news.ycombinator.com/item?id=37800951>
 <https://luke.hsiao.dev/blog/housing-documentation/>
 <https://hazyresearch.stanford.edu/legalbench/>
-<https://about.maps.earth>
 <https://github.com/imartinez/privateGPT>
 <https://github.com/vanila-io/wireflow>
 <https://medium.com/@DiggerHQ/5-open-source-alternatives-to-your-current-infrastructure-tool-stack-3e66a17728ac>
@@ -124,9 +77,13 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 <https://theartofhpc.com>
 <https://zachgoldberg.com/ctohandbook/>
 
+### ETL framework
+
+- [https://seatunnel.apache.org](https://seatunnel.apache.org/)
 
 ### Geospatial stack
 
+- <https://about.maps.earth>
 - <https://wcedmisten.fyi/post/self-hosting-osm/>
 - [https://openmaptiles.org](https://openmaptiles.org/)
 - <https://www.maptiler.com/server/openstreetmap/>
@@ -157,7 +114,7 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 - <https://github.com/RTimothyEdwards/magic>
 - [https://open-source-silicon.dev](https://open-source-silicon.dev/)
 
-### RF Chamber
+## RF Chamber
 
 ### Overview
 
@@ -239,7 +196,7 @@ Idea is to use the raspi4 on the lab bench, with the various SDR/pluto USB radio
 
 ## CNC/3d printing
 
-We have a crealty ender (something) which has laser cuter, filament extruder, cnc. 
+We have a crealty ender (something) which has laser cuter, filament extruder, cnc.
 
 We also have monoprice 3d printers.
 
@@ -268,7 +225,6 @@ Leaning towards MatterControl
 MatterControl has an issue post install, bug report at <https://github.com/MatterHackers/MatterControl/issues/5096>
 
 ### OpenScan 3d scanner
-
 
 ### Misc notes
 
@@ -381,3 +337,12 @@ and
 
 would be some things to check out.
 ```
+
+### Documentation of existing POC
+
+- POC Hardware
+- Software Engineering tooling stack
+- Hardware Engineering tooling stack
+- Mechanical/Industrial design tooling stack
+- Software Engineering supply chain (software components) stack
+- Hardware Engineering supply chain (hardware/software components ) stack

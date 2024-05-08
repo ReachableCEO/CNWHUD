@@ -34,31 +34,18 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 
 ### R&D CTO enablement
 
-- draw.io  server (<https://www.drawio.com/blog/diagrams-docker-app>) for nextcloud to utilize
 - Setup dashboard container from conhost
-- Setup LocalAI
-- Setup LibreTranslate
 - Setup elasticsearch
 - Dokku paas (Ubuntu server hyper v virtual machines) (will be used for tsys custom apps like hfnoc signup) (tie in via tailscale using app proxy on cloudron)
 - Minio configuration
 - Vault configuration
-- Docker registry: <https://goharbor.io/docs/2.10.0/administration/>
 - sdrangel on tsys3
-- resgrid [https://resgrid.com](https://resgrid.com/) (will be an end of workflow step for shipping to customer)
-- sqlfluff in ci/cd [https://sqlfluff.com](https://sqlfluff.com/)
-- Setup inventree ([https://inventree.org](https://inventree.org/))
-- Deploy kicad container for ci/cd
-- <https://www.kicad.org/download/docker/>
-- <https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/>
-- <https://news.ycombinator.com/item?id=35922207>
-- <https://github.com/INTI-CMNB/kicad-ci-test-spora>
 - LORA management server : chirpstack ([https://www.chirpstack.io](https://www.chirpstack.io/))
 - OTA updates system (mender : <https://github.com/mendersoftware>)
 - CIO:CTOWorkStation:google earth
 - CIO:CTOWorkstation:flora
 - CIO:CTOWorkstation:gephi
 - CIO:CTOWorkstationSetup:metasploit and armitage (maybe other gui as well? msfgui?)
-- Create comprehensive docker container list and pull to tsys1
 
 ### Mobile todos
 
@@ -76,10 +63,6 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 <https://github.com/kuchin/awesome-cto>
 <https://theartofhpc.com>
 <https://zachgoldberg.com/ctohandbook/>
-
-### ETL framework
-
-- [https://seatunnel.apache.org](https://seatunnel.apache.org/)
 
 ### Geospatial stack
 

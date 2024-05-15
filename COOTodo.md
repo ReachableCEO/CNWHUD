@@ -1,6 +1,5 @@
 - [COO Todo items](#coo-todo-items)
     - [InProgress](#inprogress)
-    - [ERPNEXT](#erpnext)
     - [Bizops General](#bizops-general)
     - [Bizops Marketing](#bizops-marketing)
 
@@ -15,9 +14,11 @@
 - <<https://news.ycombinator.com/item?id=10833213>
 
 - Entity stuff For all TSYS components:
-  - HFNOC/HFNFC
-  - AFABN
-  - SDG
+  - HFNOC
+  - HFNFC
+  - ThePeerNet
+  - SDGPAC
+  - SDSG
   - TheCampusTradingCo
   - RedWFO
   - RedWGR
@@ -98,20 +99,6 @@ The winding up of a series shall not affect the litigation of liability of membe
 | DOD SBIR   |       |
 | DHS SBIR   |       |
 | DOE        |       |
-
-### ERPNEXT
-
-| Entity Name    | Entity Created | Documents & Records | Assets | Accounting |
-| -------------- | -------------- | -------------------- | ------ | ---------- |
-| Subo LLC       |                |                      |        |            |
-| RackRental LLC |                |                      |        |            |
-| RWSCP Series   |                |                      |        |            |
-| RWSCP BDC Inc  |                |                      |        |            |
-| AFABN INC      |                |                      |        |            |
-| SDG 501c4 INC  |                |                      |        |            |
-| SDG PAC INC    |                |                      |        |            |
-| HFNOC Series   |                |                      |        |            |
-| TSYS LLC       |                |                      |        |            |
 
 ### Bizops General
 

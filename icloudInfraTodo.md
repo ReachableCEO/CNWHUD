@@ -6,26 +6,14 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 
 - [CTO Techops (due by 05/29) (with core setup done by 05/17)](#cto-techops-due-by-0529-with-core-setup-done-by-0517)
   - [R\&D CTO enablement](#rd-cto-enablement)
-  - [Mobile todos](#mobile-todos)
-  - [ETL framework](#etl-framework)
-  - [Geospatial stack](#geospatial-stack)
-  - [Grib and other weather data processing](#grib-and-other-weather-data-processing)
 - [Electronic Design Automation stack](#electronic-design-automation-stack)
-- [RF Chamber](#rf-chamber)
-  - [Overview](#overview)
-  - [Hardware](#hardware)
-    - [Process](#process)
-  - [Enclosure](#enclosure)
-  - [to categorize](#to-categorize)
-  - [Software](#software)
-    - [SDR server](#sdr-server)
-  - [EE](#ee)
+- [EE](#ee)
 - [CNC/3d printing](#cnc3d-printing)
   - [CNC](#cnc)
   - [3d printer workflow/ops](#3d-printer-workflowops)
-  - [OpenScan 3d scanner](#openscan-3d-scanner)
   - [Misc notes](#misc-notes)
   - [Documentation of existing POC](#documentation-of-existing-poc)
+  - [Mobile todos](#mobile-todos)
 
 ## CTO Techops (due by 05/29) (with core setup done by 05/17)
 
@@ -36,7 +24,6 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 
 - Setup dashboard container from conhost
 - Setup elasticsearch
-- Dokku paas (Ubuntu server hyper v virtual machines) (will be used for tsys custom apps like hfnoc signup) (tie in via tailscale using app proxy on cloudron)
 - Minio configuration
 - Vault configuration
 - sdrangel on tsys3
@@ -47,47 +34,6 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 - CIO:CTOWorkstation:gephi
 - CIO:CTOWorkstationSetup:metasploit and armitage (maybe other gui as well? msfgui?)
 
-### Mobile todos
-
-<https://news.ycombinator.com/item?id=38461101>
-<https://news.ycombinator.com/item?id=37800951>
-<https://luke.hsiao.dev/blog/housing-documentation/>
-<https://hazyresearch.stanford.edu/legalbench/>
-<https://github.com/imartinez/privateGPT>
-<https://github.com/vanila-io/wireflow>
-<https://medium.com/@DiggerHQ/5-open-source-alternatives-to-your-current-infrastructure-tool-stack-3e66a17728ac>
-<https://github.com/MeetKai/functionary>
-<https://github.com/ShishirPatil/gorilla>
-<https://github.com/openvmp/partcad>
-<https://news.ycombinator.com/item?id=38785458>
-<https://github.com/kuchin/awesome-cto>
-<https://theartofhpc.com>
-<https://zachgoldberg.com/ctohandbook/>
-
-### Geospatial stack
-
-- <https://about.maps.earth>
-- <https://wcedmisten.fyi/post/self-hosting-osm/>
-- [https://openmaptiles.org](https://openmaptiles.org/)
-- <https://www.maptiler.com/server/openstreetmap/>
-- <https://www.muckrock.com/news/archives/2024/feb/13/release-notes-how-to-make-self-hosted-maps-that-work-everywhere-cost-next-to-nothing-and-might-even-work-in-airplane-mode/>
-- <https://gist.github.com/jbaranski/1c2373314a1e4b987e012aa8ebc5f18e>
-- <https://simonwillison.net/2021/Feb/4/datasette-tiles/>
-- <https://switch2osm.org/serving-tiles/>
-- <https://hub.docker.com/r/maptiler/tileserver-gl>
-- <https://blog.rtwilson.com/simple-self-hosted-openstreetmap-routing-using-valhalla-and-docker/>
-- <https://hub.docker.com/r/postgis/postgis/>
-
-### Grib and other weather data processing
-
-- <https://github.com/DeutscherWetterdienst/python-eccodes?tab=readme-ov-file>
-- <https://epic.noaa.gov/get-code/short-range-weather/>
-- <https://ufs-srweather-app.readthedocs.io/en/release-public-v2.2.0/BuildingRunningTesting/ContainerQuickstart.html#quickstartc>
-- <https://github.com/JCSDA/spack-stack>
-- <https://ioos.github.io/erddap-gold-standard/>
-- <https://epic.noaa.gov/land-data-assimilation-system/>
-- <https://www.weather.gov/climateservices/nowdatafaq>
-
 ## Electronic Design Automation stack
 
 - [https://www.klayout.de](https://www.klayout.de/)
@@ -97,73 +43,7 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 - <https://github.com/RTimothyEdwards/magic>
 - [https://open-source-silicon.dev](https://open-source-silicon.dev/)
 
-## RF Chamber
-
-### Overview
-
-- <https://www.sparkfun.com/tutorials/398>
-- <https://www.tek.com/blog/pre-compliance-emc-test-equipment-guide-radiated-emissions>
-- <https://www.digikey.com/en/articles/the-fcc-road-part-15-from-concept-to-approval>
-- <https://hackaday.com/2016/09/19/preparing-your-product-for-the-fcc/>
-- <https://www.nutsvolts.com/magazine/article/low-cost-emi-pre-compliance-testing>
-- <https://medium.com/supplyframe-hardware/first-time-fcc-testing-for-a-custom-product-ef618da08bac>
-- <https://emcfastpass.com/cert-ebook/>
-- <https://connectivity-staging.s3.us-east-2.amazonaws.com/s3fs-public/2019-03/Pre-Scan-White-Paper-v1_0.pdf>
-- <https://interferencetechnology.com/how-to-build-your-own-emi-troubleshooting-and-pre-compliance-kit/>
-- <https://www.rtl-sdr.com/tag/vna/>
-
-### Hardware
-
-- <https://github.com/Ttl/vna>
-- <https://tinkerman.cat/post/rf-power-monitoring-tools-on-the-cheap/>
-
-#### Process
-
-### Enclosure
-
-- <http://eor.berkeley.edu/wp-content/uploads/2011/09/p004.rbradley.pdf>
-- <https://www.microwavejournal.com/articles/25704-basic-rules-for-anechoic-chamber-design-part-one-rf-absorber-approximations>
-- <http://eagle.chaosproject.com/sandbox/acstrial/newsletters/summer08/pp2.pdf>
-- <https://www.mikrocontroller.net/attachment/89388/dip_icheln.pdf>
-- <https://www.masttechnologies.com/products/defense/rf-absorbers/cavity-resonance-0-040/>
-- <https://arxiv.org/pdf/1808.00820.pdf>
-- <http://www.opensourceinstruments.com/Electronics/A3018/Faraday_Enclosures.html>
-- <https://www.lessemf.com/fabric.html>
-
-### to categorize
-
-- <https://www.researchgate.net/profile/Moray-Rumney/publication/286591732_Practical_active_antenna_evaluation_using_the_two-stage_MIMO_OTA_measurement_method/links/56e6cd7408ae65dd4cc1d3ac/Practical-active-antenna-evaluation-using-the-two-stage-MIMO-OTA-measurement-method.pdf?origin=publication_detail>
-- <https://www.stupid-projects.com/emc-probe-using-rtl-sdr/>
-- <https://nanorfe.com/nanovna-v2.html>
-- <https://www.rtl-sdr.com/tag/vna/>
-- <https://www.rtl-sdr.com/vector-measurements-with-an-rtl-sdr-and-hackrf-based-system/>
-- <https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html#eb-overview>
-- <https://hforsten.com/cheap-homemade-30-mhz-6-ghz-vector-network-analyzer.html>
-- <https://www.jpier.org/PIER/pier138/31.13030606.pdf>
-
-### Software
-
-- <https://github.com/AD-Vega/rtl-power-fftw>
-- <http://swigerco.com/gnuradio/>
-- <https://www.techplayon.com/smart-antennas-beamforming-understanding-gnu-part-1/>
-- <https://github.com/pavels/spektrum>
-- <http://ab-initio.mit.edu/wiki/index.php?title=Meep>
-- <https://github.com/AlexandreRouma/SDRPlusPlus/releases>
-- <https://github.com/ainfosec/FISSURE>
-
-#### SDR server
-
-Idea is to use the raspi4 on the lab bench, with the various SDR/pluto USB radios hung off it and stream the output to the (either/or) upstairs GPU farm or downstairs gpu/cpu server farm for processing.
-
-- <https://e.pavlin.si/2021/12/11/multiband-sdr-with-remote-receivers/>
-- <https://www.rtl-sdr.com/sdr-server-beta-now-available/>
-- <https://www.rtl-sdr.com/tag/spyserver/>
-- <https://www.rtl-sdr.com/tag/spyserver/page/2/>
-- <https://www.rtl-sdr.com/rtl-sdr-tutorial-setting-up-and-using-the-spyserver-remote-streaming-server-with-an-rtl-sdr/>
-- <https://github.com/pothosware/SoapyRemote>
-- <https://github.com/pothosware/SoapySDR/wiki>
-
-### EE
+## EE
 
 - Setup openocd server <https://forum.sparkfun.com/viewtopic.php?t=48276> and <http://openocd.org/doc/html/Server-Configuration.html>
 - Setup sigrok with logging multimeter
@@ -207,7 +87,6 @@ Leaning towards MatterControl
 
 MatterControl has an issue post install, bug report at <https://github.com/MatterHackers/MatterControl/issues/5096>
 
-### OpenScan 3d scanner
 
 ### Misc notes
 
@@ -329,3 +208,20 @@ would be some things to check out.
 - Mechanical/Industrial design tooling stack
 - Software Engineering supply chain (software components) stack
 - Hardware Engineering supply chain (hardware/software components ) stack
+
+### Mobile todos
+
+<https://news.ycombinator.com/item?id=38461101>
+<https://news.ycombinator.com/item?id=37800951>
+<https://luke.hsiao.dev/blog/housing-documentation/>
+<https://hazyresearch.stanford.edu/legalbench/>
+<https://github.com/imartinez/privateGPT>
+<https://github.com/vanila-io/wireflow>
+<https://medium.com/@DiggerHQ/5-open-source-alternatives-to-your-current-infrastructure-tool-stack-3e66a17728ac>
+<https://github.com/MeetKai/functionary>
+<https://github.com/ShishirPatil/gorilla>
+<https://github.com/openvmp/partcad>
+<https://news.ycombinator.com/item?id=38785458>
+<https://github.com/kuchin/awesome-cto>
+<https://theartofhpc.com>
+<https://zachgoldberg.com/ctohandbook/>

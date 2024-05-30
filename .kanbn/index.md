@@ -21,7 +21,6 @@ sprints:
 - [bizops-insurance](tasks/bizops-insurance.md)
 - [bizops-continunity](tasks/bizops-continunity.md)
 - [bizops-tsys-llc](tasks/bizops-tsys-llc.md)
-- [recover-pki-safe-combination](tasks/recover-pki-safe-combination.md)
 - [update-rr-subo-llc-operating-agreements-using-fairshares-model](tasks/update-rr-subo-llc-operating-agreements-using-fairshares-model.md)
 - [bizops-create-emergency-action-plan](tasks/bizops-create-emergency-action-plan.md)
 

@@ -19,7 +19,6 @@ sprints:
 - [cio-rdit-finish-reflow-oven-build](tasks/cio-rdit-finish-reflow-oven-build.md)
 - [bizops-pac](tasks/bizops-pac.md)
 - [bizops-insurance](tasks/bizops-insurance.md)
-- [bizops-continunity](tasks/bizops-continunity.md)
 - [bizops-tsys-llc](tasks/bizops-tsys-llc.md)
 - [update-rr-subo-llc-operating-agreements-using-fairshares-model](tasks/update-rr-subo-llc-operating-agreements-using-fairshares-model.md)
 - [bizops-create-emergency-action-plan](tasks/bizops-create-emergency-action-plan.md)
@@ -28,7 +27,6 @@ sprints:
 
 - [laptop-setup-setup-backup-system-local-remote-and-take-initial-backup](tasks/laptop-setup-setup-backup-system-local-remote-and-take-initial-backup.md)
 - [cio-rdit-rack-rental-dut-finish-galielo-bringup](tasks/cio-rdit-rack-rental-dut-finish-galielo-bringup.md)
-- [cio-rdit-rack-rental-dut-finish-sifive-bringup](tasks/cio-rdit-rack-rental-dut-finish-sifive-bringup.md)
 - [cio-rdit-rack-rental-infrastructure-physical-dut-console](tasks/cio-rdit-rack-rental-infrastructure-physical-dut-console.md)
 - [cio-rdit-rack-rental-dut-finish-parallella-bringup](tasks/cio-rdit-rack-rental-dut-finish-parallella-bringup.md)
 - [cio-rdit-rack-rental-infrastructure-get-rackrental-router-2800-on-net](tasks/cio-rdit-rack-rental-infrastructure-get-rackrental-router-2800-on-net.md)
@@ -36,13 +34,13 @@ sprints:
 ## In Progress
 
 - [laptop-setup-install-all-software-packages-and-document-the-list](tasks/laptop-setup-install-all-software-packages-and-document-the-list.md)
-- [bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com.md)
 - [laptop-setup-dotfiles](tasks/laptop-setup-dotfiles.md)
 - [ukrrs-feed-in-documents-emails-into-the-ukrrs](tasks/ukrrs-feed-in-documents-emails-into-the-ukrrs.md)
 - [setup-continue-with-local-llm](tasks/setup-continue-with-local-llm.md)
 
 ## Done
 
+- [bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com.md)
 - [laptop-setup-live-code-streaming](tasks/laptop-setup-live-code-streaming.md)
 - [bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2023-receipts-are-captured-and-properly-categorized-in-neat-com.md)
 - [ensure-tsys-account-can-publish-to-github](tasks/ensure-tsys-account-can-publish-to-github.md)

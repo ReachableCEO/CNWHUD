@@ -39,7 +39,6 @@ sprints:
 - [laptop-setup-install-all-software-packages-and-document-the-list](tasks/laptop-setup-install-all-software-packages-and-document-the-list.md)
 - [bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com.md)
 - [laptop-setup-dotfiles](tasks/laptop-setup-dotfiles.md)
-- [laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage](tasks/laptop-setup-setup-sandbox-pre-production-testing-lab-network-storage.md)
 - [ukrrs-feed-in-documents-emails-into-the-ukrrs](tasks/ukrrs-feed-in-documents-emails-into-the-ukrrs.md)
 - [setup-continue-with-local-llm](tasks/setup-continue-with-local-llm.md)
 

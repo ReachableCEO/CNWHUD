@@ -45,7 +45,6 @@
 - Obtain insurance coverage
 - Create bank account for Turn Net Systems LLC
 - Obtain EIN for Turn Net Systems LLC
-- Recover PKI safe combination
 - Update RR/Subo LLC Operating Agreements using fairshares model
 - setup designated out of band agent for business continuity in event of CEO and COO incapacity or death
 - review EAP/continuity plan generally

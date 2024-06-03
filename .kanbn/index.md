@@ -22,7 +22,6 @@ sprints:
 
 - [cio-rdit-rack-rental-dut-finish-parallella-bringup](tasks/cio-rdit-rack-rental-dut-finish-parallella-bringup.md)
 - [laptop-setup-setup-backup-system-local-remote-and-take-initial-backup](tasks/laptop-setup-setup-backup-system-local-remote-and-take-initial-backup.md)
-- [laptop-setup-install-all-software-packages-and-document-the-list](tasks/laptop-setup-install-all-software-packages-and-document-the-list.md)
 
 ## Done
 

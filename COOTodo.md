@@ -33,16 +33,17 @@
 - Update Charles Wyble Power Of Attorney and setup quarterly / yearly review
 - Create/finalize stand alone / subsidiary entities:
 
+- Create Emergency Action Plan
 - Finish website (landing page at least) build out
-- Obtain EIN
-- Bank account
+- Obtain EIN for Turn Net Systems LLC
+- Bank account for Turn Net Systems LLC
 - Phone number/IVR
 - Tax election
 - D&BSN
 - sam
-- Create Emergency Action Plan
 - Gather insurance requirements
 - Obtain insurance coverage
+- Photograph/document/inventory all TSYS assets
 - Create bank account for Turn Net Systems LLC
 - Obtain EIN for Turn Net Systems LLC
 - Update RR/Subo LLC Operating Agreements using fairshares model
@@ -52,6 +53,7 @@
 - (re)setup Side Door PAC
 - Bring FEC paperwork current
 - Figure out FEC software
+- Update operating agreement for (standalone) RR/Subo LLC to utilize fairshares model.
 - Finalize operating agreement with following series language
 
 ```

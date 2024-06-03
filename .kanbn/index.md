@@ -13,12 +13,6 @@ sprints:
 
 ## Backlog
 
-- [bizops-pac](tasks/bizops-pac.md)
-- [bizops-insurance](tasks/bizops-insurance.md)
-- [bizops-tsys-llc](tasks/bizops-tsys-llc.md)
-- [update-rr-subo-llc-operating-agreements-using-fairshares-model](tasks/update-rr-subo-llc-operating-agreements-using-fairshares-model.md)
-- [bizops-create-emergency-action-plan](tasks/bizops-create-emergency-action-plan.md)
-
 ## Todo
 
 - [cio-rdit-rack-rental-infrastructure-physical-dut-console](tasks/cio-rdit-rack-rental-infrastructure-physical-dut-console.md)

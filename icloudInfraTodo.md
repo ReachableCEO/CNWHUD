@@ -17,7 +17,7 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 ### R&D CTO enablement
 
 - Setup dashboard container from conhost
-- Setup elasticsearch
+- Setup opensearch
 - Minio configuration
 - Vault configuration
 - CIO:CTOWorkStation:google earth

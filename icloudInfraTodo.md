@@ -44,4 +44,3 @@ TSYS infrastructure Todo
 <https://github.com/kuchin/awesome-cto>
 
 <https://github.com/vanila-io/wireflow>
-<https://github.com/openvmp/partcad>

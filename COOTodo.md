@@ -40,21 +40,6 @@
   - Invention Assignment
   - anything else needed from <http://siliconhillslawyer.co/startup-formation-issues/>  <http://siliconhillslawyer.co/2013/05/01/austin-startup-form-yourself-avoid-crappy-lawyers/>
 
-- Finish federal government registration for all entities
-
-| Task       | Notes |
-| ---------- | ----- |
-| SBIR Reg   |       |
-| NASA SBIR  |       |
-| Grants.gov |       |
-| DOD SBIR   |       |
-| SAM        |       |
-| NSF        |       |
-| Grants.gov |       |
-| DOD SBIR   |       |
-| DHS SBIR   |       |
-| DOE        |       |
-
 ### Bizops General
 
 | Entity Name    | Bank Account | Online Banking   | Stripe  | Paypal  | Fileshare | State Tax Filing | Federal Tax Filing | EIN        | EIN no dash | Other Federal Filings | Sales tax & Use Permit |

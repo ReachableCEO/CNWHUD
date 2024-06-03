@@ -124,28 +124,3 @@ would be some things to check out.
 <https://github.com/kuchin/awesome-cto>
 <https://theartofhpc.com>
 <https://zachgoldberg.com/ctohandbook/>
-
-
-
-
-
-
-
- Setup home assistant to streamline facility operations
- K Setup HomeChart and Grocy to streamline facility operations
-
- K Renew Sam registration
- K Update trust
- K Merge 10 questions into handbook
- K Reference ready set , maybe convert to mdbook
- K Merge startup starter package into handbook
- K Merge OA into handbook
- K StartupStarterPackage
- Note
- K Contracts redwood
- K contracts tsys series
- K contracts rackrental and suborbital
- K Two classes of members
- Note
- K Operating account in name of LLc
- K Company agreement

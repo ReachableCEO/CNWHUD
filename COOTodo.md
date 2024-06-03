@@ -5,9 +5,6 @@
 
 # COO Todo items
 
-- Finish paypal/venmo/cash app/buy me a coffee/patreon/librepay/github sponsors profile/banking setup
-- Get all contacts consolidated and into Monica CRM
-
 - <https://news.ycombinator.com/item?id=10884209>
 - <<https://news.ycombinator.com/item?id=10833213>
 

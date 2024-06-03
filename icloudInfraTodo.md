@@ -6,7 +6,6 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 
 - [CTO Techops (due by 05/29) (with core setup done by 05/17)](#cto-techops-due-by-0529-with-core-setup-done-by-0517)
   - [R\&D CTO enablement](#rd-cto-enablement)
-- [Electronic Design Automation stack](#electronic-design-automation-stack)
 - [EE](#ee)
 - [CNC/3d printing](#cnc3d-printing)
   - [Misc notes](#misc-notes)
@@ -28,15 +27,6 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 - CIO:CTOWorkstation:flora
 - CIO:CTOWorkstation:gephi
 - CIO:CTOWorkstationSetup:metasploit and armitage (maybe other gui as well? msfgui?)
-
-## Electronic Design Automation stack
-
-- [https://www.klayout.de](https://www.klayout.de/)
-- <https://semiwiki.com/wikis/industry-wikis/eda-open-source-tools-wiki/>
-- <https://opencores.org/howto/eda>
-- <http://opencircuitdesign.com/magic/>
-- <https://github.com/RTimothyEdwards/magic>
-- [https://open-source-silicon.dev](https://open-source-silicon.dev/)
 
 ## EE
 

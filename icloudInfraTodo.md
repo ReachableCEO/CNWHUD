@@ -145,7 +145,6 @@ would be some things to check out.
  K Contracts redwood
  K contracts tsys series
  K contracts rackrental and suborbital
- K Transfer of property into LLC / series
  K Two classes of members
  Note
  K Operating account in name of LLc

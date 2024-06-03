@@ -36,7 +36,6 @@
 - sam
 
 
-- Update RR/Subo LLC (standalone) Operating Agreements using fairshares model
 - Finalize operating agreement with following series language
 
 ```

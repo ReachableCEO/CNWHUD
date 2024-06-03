@@ -7,23 +7,9 @@
 - <https://news.ycombinator.com/item?id=10884209>
 
 - Create/finalize stand alone / subsidiary entities and any neecded entity related bits:
-  - HFNOC
-  - HFNFC
-  - ThePeerNet
-  - SDGPAC
-  - SDSG
-  - TheCampusTradingCo
-  - RedWFO
-  - RedWGR
-  - YDN
-  - Suborbital Systems
-  - RackRental
-
+  
 - Obtain EIN for Turn Net Systems LLC
 - Create bank account for Turn Net Systems LLC
-- Tax election
-- D&BSN
-- sam
 
 - Contract execution
   - NDA

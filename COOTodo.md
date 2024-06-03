@@ -5,7 +5,6 @@
 # COO Todo items
 
 - <https://news.ycombinator.com/item?id=10884209>
-- <https://news.ycombinator.com/item?id=10833213>
 
 - Create/finalize stand alone / subsidiary entities and any neecded entity related bits:
   - HFNOC

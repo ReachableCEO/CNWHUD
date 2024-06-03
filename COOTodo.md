@@ -8,21 +8,10 @@
 - <<https://news.ycombinator.com/item?id=10833213>
 
 
-- Photograph/document/inventory all TSYS assets
-
-
 - Create Emergency Action Plan
 - review EAP/continuity plan generally
 
 - Finish website (landing page at least) build out
-- Obtain EIN for Turn Net Systems LLC
-- Create bank account for Turn Net Systems LLC
-- Tax election
-- D&BSN
-- sam
-
-- Gather insurance requirements
-- Obtain insurance coverage
 
 - Upload everything into fidsafe and ensure out of band recovery agent has access
 - Follow fidsafe check lists
@@ -46,6 +35,12 @@
   - YDN
   - Suborbital Systems
   - RackRental
+
+- Obtain EIN for Turn Net Systems LLC
+- Create bank account for Turn Net Systems LLC
+- Tax election
+- D&BSN
+- sam
 
 - Update operating agreement for (standalone) RR/Subo LLC to utilize fairshares model.
 - Finalize operating agreement with following series language

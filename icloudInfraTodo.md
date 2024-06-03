@@ -26,8 +26,6 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 - Setup elasticsearch
 - Minio configuration
 - Vault configuration
-- LORA management server : chirpstack ([https://www.chirpstack.io](https://www.chirpstack.io/))
-- OTA updates system (mender : <https://github.com/mendersoftware>)
 - CIO:CTOWorkStation:google earth
 - CIO:CTOWorkstation:flora
 - CIO:CTOWorkstation:gephi

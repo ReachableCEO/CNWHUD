@@ -14,7 +14,6 @@
 
 - Upload everything into fidsafe and ensure out of band recovery agent has access
 - Follow fidsafe check lists
-- setup designated out of band agent for business continuity in event of CEO and COO incapacity or death
 
 - Create/finalize stand alone / subsidiary entities and any neecded entity related bits:
   - HFNOC

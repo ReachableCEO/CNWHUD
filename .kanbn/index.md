@@ -14,7 +14,6 @@ sprints:
 ## Backlog
 
 - [cio-rdit-environmental-chamber](tasks/cio-rdit-environmental-chamber.md)
-- [cio-rdit-finish-reflow-oven-build](tasks/cio-rdit-finish-reflow-oven-build.md)
 - [bizops-pac](tasks/bizops-pac.md)
 - [bizops-insurance](tasks/bizops-insurance.md)
 - [bizops-tsys-llc](tasks/bizops-tsys-llc.md)

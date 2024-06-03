@@ -42,5 +42,3 @@ TSYS infrastructure Todo
 
 <https://zachgoldberg.com/ctohandbook/>
 <https://github.com/kuchin/awesome-cto>
-
-<https://github.com/vanila-io/wireflow>

@@ -1,5 +1,4 @@
 - [COO Todo items](#coo-todo-items)
-    - [InProgress](#inprogress)
     - [Bizops General](#bizops-general)
     - [Bizops Marketing](#bizops-marketing)
 
@@ -8,7 +7,34 @@
 - <https://news.ycombinator.com/item?id=10884209>
 - <<https://news.ycombinator.com/item?id=10833213>
 
-- Entity stuff For all TSYS components:
+
+- Photograph/document/inventory all TSYS assets
+
+
+- Create Emergency Action Plan
+- review EAP/continuity plan generally
+
+- Finish website (landing page at least) build out
+- Obtain EIN for Turn Net Systems LLC
+- Create bank account for Turn Net Systems LLC
+- Tax election
+- D&BSN
+- sam
+
+- Gather insurance requirements
+- Obtain insurance coverage
+
+- Upload everything into fidsafe and ensure out of band recovery agent has access
+- Follow fidsafe check lists
+- setup designated out of band agent for business continuity in event of CEO and COO incapacity or death
+
+- Update RR/Subo LLC Operating Agreements using fairshares model
+
+- (re)setup Side Door PAC
+- Bring FEC paperwork current
+- Figure out FEC software
+
+- Create/finalize stand alone / subsidiary entities and any neecded entity related bits:
   - HFNOC
   - HFNFC
   - ThePeerNet
@@ -21,34 +47,7 @@
   - Suborbital Systems
   - RackRental
 
-### InProgress
-
-- Photograph/inventory all TSYS Group assets
-- Upload everything into fidsafe and ensure out of band recovery agent has access
-
-- Create Emergency Action Plan
-- review EAP/continuity plan generally
-
-- Finish website (landing page at least) build out
-- Obtain EIN for Turn Net Systems LLC
-- Bank account for Turn Net Systems LLC
-- Phone number/IVR
-- Tax election
-- D&BSN
-- sam
-- Gather insurance requirements
-- Obtain insurance coverage
-- Photograph/document/inventory all TSYS assets
-- Create bank account for Turn Net Systems LLC
-- Obtain EIN for Turn Net Systems LLC
-- Update RR/Subo LLC Operating Agreements using fairshares model
-- setup designated out of band agent for business continuity in event of CEO and COO incapacity or death
-- Follow fidsafe check lists
-- (re)setup Side Door PAC
-- Bring FEC paperwork current
-- Figure out FEC software
 - Update operating agreement for (standalone) RR/Subo LLC to utilize fairshares model.
-- Create/finalize stand alone / subsidiary entities:
 - Finalize operating agreement with following series language
 
 ```

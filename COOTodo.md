@@ -16,8 +16,6 @@
 - Follow fidsafe check lists
 - setup designated out of band agent for business continuity in event of CEO and COO incapacity or death
 
-- Update RR/Subo LLC Operating Agreements using fairshares model
-
 - Create/finalize stand alone / subsidiary entities and any neecded entity related bits:
   - HFNOC
   - HFNFC
@@ -37,7 +35,8 @@
 - D&BSN
 - sam
 
-- Update operating agreement for (standalone) RR/Subo LLC to utilize fairshares model.
+
+- Update RR/Subo LLC (standalone) Operating Agreements using fairshares model
 - Finalize operating agreement with following series language
 
 ```

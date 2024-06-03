@@ -136,7 +136,6 @@ would be some things to check out.
 
  K Renew Sam registration
  K Update trust
- K Get TSYS LLC in good standing
  K Merge 10 questions into handbook
  K Reference ready set , maybe convert to mdbook
  K Merge startup starter package into handbook
@@ -145,18 +144,14 @@ would be some things to check out.
  Note
  K Contracts redwood
  K contracts tsys series
- Printed with Microsoft To Do
- 1/2
-Bizops
- Saturday, November 25, 2023
  K contracts rackrental and suborbital
  K Transfer of property into LLC / series
  K Two classes of members
  Note
  K Operating account in name of LLc
- K Company seal on record book
  K Company agreement
+
+ K Company seal on record book
  K Minutes of first meeting
  K Formal record  book
  K LLC membership certificates dated and issued
- K Develop emergency hazard guide / emergency action plan

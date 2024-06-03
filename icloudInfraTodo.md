@@ -9,8 +9,6 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 - [Electronic Design Automation stack](#electronic-design-automation-stack)
 - [EE](#ee)
 - [CNC/3d printing](#cnc3d-printing)
-  - [CNC](#cnc)
-  - [3d printer workflow/ops](#3d-printer-workflowops)
   - [Misc notes](#misc-notes)
   - [Documentation of existing POC](#documentation-of-existing-poc)
   - [Mobile todos](#mobile-todos)
@@ -56,30 +54,7 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 
 ## CNC/3d printing
 
-### CNC
-
-The following are some options to drive the controller
-
-- <https://github.com/vlachoudis/bCNC>
-- <https://github.com/synthetos/TinyG/wiki/Chilipeppr>
-- <https://winder.github.io/ugs_website/guide/platform/>
-
-Depending on maintenance , installation difficulty, features etc, may end up with multiple options.
-
-### 3d printer workflow/ops
-
-Evaluate
-
-- <https://octoprint.org/download/>
-- <https://github.com/MatterHackers/MatterControl>
-- <https://www.repetier-server.com/>
-
-Leaning towards MatterControl
-
-MatterControl has an issue post install, bug report at <https://github.com/MatterHackers/MatterControl/issues/5096>
-
 ### Misc notes
-
 
 <https://research.kudelskisecurity.com/2014/05/01/jtag-debugging-made-easy-with-bus-pirate-and-openocd/>
 
@@ -106,12 +81,13 @@ would be some things to check out.
 <https://luke.hsiao.dev/blog/housing-documentation/>
 <https://hazyresearch.stanford.edu/legalbench/>
 <https://github.com/imartinez/privateGPT>
-<https://github.com/vanila-io/wireflow>
-<https://medium.com/@DiggerHQ/5-open-source-alternatives-to-your-current-infrastructure-tool-stack-3e66a17728ac>
 <https://github.com/MeetKai/functionary>
 <https://github.com/ShishirPatil/gorilla>
-<https://github.com/openvmp/partcad>
 <https://news.ycombinator.com/item?id=38785458>
-<https://github.com/kuchin/awesome-cto>
 <https://theartofhpc.com>
+
 <https://zachgoldberg.com/ctohandbook/>
+<https://github.com/kuchin/awesome-cto>
+
+<https://github.com/vanila-io/wireflow>
+<https://github.com/openvmp/partcad>

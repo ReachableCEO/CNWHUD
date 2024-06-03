@@ -25,10 +25,10 @@
 
 - Photograph/inventory all TSYS Group assets
 - Upload everything into fidsafe and ensure out of band recovery agent has access
-- Update Charles Wyble Power Of Attorney and setup quarterly / yearly review
-- Create/finalize stand alone / subsidiary entities:
 
 - Create Emergency Action Plan
+- review EAP/continuity plan generally
+
 - Finish website (landing page at least) build out
 - Obtain EIN for Turn Net Systems LLC
 - Bank account for Turn Net Systems LLC
@@ -43,12 +43,12 @@
 - Obtain EIN for Turn Net Systems LLC
 - Update RR/Subo LLC Operating Agreements using fairshares model
 - setup designated out of band agent for business continuity in event of CEO and COO incapacity or death
-- review EAP/continuity plan generally
 - Follow fidsafe check lists
 - (re)setup Side Door PAC
 - Bring FEC paperwork current
 - Figure out FEC software
 - Update operating agreement for (standalone) RR/Subo LLC to utilize fairshares model.
+- Create/finalize stand alone / subsidiary entities:
 - Finalize operating agreement with following series language
 
 ```

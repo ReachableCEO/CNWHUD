@@ -5,15 +5,7 @@
 # COO Todo items
 
 - <https://news.ycombinator.com/item?id=10884209>
-- <<https://news.ycombinator.com/item?id=10833213>
-
-- Create Emergency Action Plan
-- review EAP/continuity plan generally
-
-- Finish website (landing page at least) build out
-
-- Upload everything into fidsafe and ensure out of band recovery agent has access
-- Follow fidsafe check lists
+- <https://news.ycombinator.com/item?id=10833213>
 
 - Create/finalize stand alone / subsidiary entities and any neecded entity related bits:
   - HFNOC

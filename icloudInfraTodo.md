@@ -6,9 +6,6 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 
 - [CTO Techops (due by 05/29) (with core setup done by 05/17)](#cto-techops-due-by-0529-with-core-setup-done-by-0517)
   - [R\&D CTO enablement](#rd-cto-enablement)
-- [EE](#ee)
-- [CNC/3d printing](#cnc3d-printing)
-  - [Misc notes](#misc-notes)
   - [Documentation of existing POC](#documentation-of-existing-poc)
   - [Mobile todos](#mobile-todos)
 
@@ -28,23 +25,6 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 - CIO:CTOWorkstation:gephi
 - CIO:CTOWorkstationSetup:metasploit and armitage (maybe other gui as well? msfgui?)
 
-## EE
-
-- Setup openocd server <https://forum.sparkfun.com/viewtopic.php?t=48276> and <http://openocd.org/doc/html/Server-Configuration.html>
-- Setup sigrok with logging multimeter
-
-<https://sigrok.org/>
-<https://sigrok.org/wiki/UNI-T_UT61E>
-<https://www.google.com/search?q=sigrok+uni-t&rlz=1C9BKJA_enUS945US945&oq=sigrok+uni-t&aqs=chrome..69i57.5133j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8>
-
-- Setup bus pirate <http://dangerousprototypes.com/docs/Bus_Pirate#Download>
-- Setup document camera <http://runeman.org/articles/natick-foss/ziggi-hd/>
-- Setup USB microscope <https://www.adafruit.com/product/636> and <https://plugable.com/pages/microscope-drivers>
-- Setup jtag <https://www.digikey.com/en/products/detail/ST-LINK%2fV2/497-10484-ND/2214535?itemSeq=371798146> and <https://github.com/stlink-org/stlink> and <http://openocd.org/doc/html/Debug-Adapter-Configuration.html> (google openocd st-link v2 ) (maybe add jtag as well)
-
-## CNC/3d printing
-
-### Misc notes
 
 <https://research.kudelskisecurity.com/2014/05/01/jtag-debugging-made-easy-with-bus-pirate-and-openocd/>
 

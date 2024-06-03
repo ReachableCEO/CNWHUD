@@ -17,8 +17,6 @@ sprints:
 
 ## In Progress
 
-- [cio-rdit-rack-rental-dut-finish-parallella-bringup](tasks/cio-rdit-rack-rental-dut-finish-parallella-bringup.md)
-
 ## Done
 
 - [bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com](tasks/bizops-ensure-all-2022-receipts-are-properly-categorized-in-neat-com.md)

@@ -8,4 +8,4 @@ Welcome to the CNWHUD repository. This is where Charles N Wyble (aka @ReachableC
 * shell fragments
 * VsCode profiles
 
-He used to utilize this repository as his TODO system, and utilized a local vscode kanbn , but is now using Taiga. So you'll see evidence of all that in the git history.
+He used to use this repository as his TODO system, and utilized a local vscode kanbn , but is now using Taiga. You'll see evidence of all that in the git history.

@@ -7,7 +7,6 @@
 - <https://news.ycombinator.com/item?id=10884209>
 - <<https://news.ycombinator.com/item?id=10833213>
 
-
 - Create Emergency Action Plan
 - review EAP/continuity plan generally
 
@@ -18,10 +17,6 @@
 - setup designated out of band agent for business continuity in event of CEO and COO incapacity or death
 
 - Update RR/Subo LLC Operating Agreements using fairshares model
-
-- (re)setup Side Door PAC
-- Bring FEC paperwork current
-- Figure out FEC software
 
 - Create/finalize stand alone / subsidiary entities and any neecded entity related bits:
   - HFNOC

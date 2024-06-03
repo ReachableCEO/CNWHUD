@@ -15,13 +15,9 @@ sprints:
 
 ## Todo
 
-- [cio-rdit-rack-rental-infrastructure-physical-dut-console](tasks/cio-rdit-rack-rental-infrastructure-physical-dut-console.md)
-- [cio-rdit-rack-rental-infrastructure-get-rackrental-router-2800-on-net](tasks/cio-rdit-rack-rental-infrastructure-get-rackrental-router-2800-on-net.md)
-
 ## In Progress
 
 - [cio-rdit-rack-rental-dut-finish-parallella-bringup](tasks/cio-rdit-rack-rental-dut-finish-parallella-bringup.md)
-- [laptop-setup-setup-backup-system-local-remote-and-take-initial-backup](tasks/laptop-setup-setup-backup-system-local-remote-and-take-initial-backup.md)
 
 ## Done
 

@@ -149,8 +149,3 @@ would be some things to check out.
  Note
  K Operating account in name of LLc
  K Company agreement
-
- K Company seal on record book
- K Minutes of first meeting
- K Formal record  book
- K LLC membership certificates dated and issued

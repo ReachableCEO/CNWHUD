@@ -9,3 +9,5 @@ Welcome to the CNWHUD repository. This is where Charles N Wyble (aka @ReachableC
 * VsCode profiles
 
 He used to use this repository as his TODO system, and utilized a local vscode kanbn , but is now using Taiga. You'll see evidence of all that in the git history.
+
+Also a brief attempt was made to use Dendron, that was abandoned.

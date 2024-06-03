@@ -1,8 +1,5 @@
 TSYS infrastructure Todo
 
-This documents the last few items for Charles to deliver as CIO. Charles is doing Core IT/business enablement and handling moving all the data off his laptop and into the systems.
-
-Albert will run everything day to day as COO. Patti will handle everything finance related.
 
 - [CTO Techops (due by 05/29) (with core setup done by 05/17)](#cto-techops-due-by-0529-with-core-setup-done-by-0517)
   - [R\&D CTO enablement](#rd-cto-enablement)
@@ -21,15 +18,6 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 - CIO:CTOWorkstation:gephi
 - CIO:CTOWorkstationSetup:metasploit and armitage (maybe other gui as well? msfgui?)
 
-
-<https://research.kudelskisecurity.com/2014/05/01/jtag-debugging-made-easy-with-bus-pirate-and-openocd/>
-
-and
-
-<https://www.google.com/search?q=openocd%20bus%20pirate&ie=utf-8&oe=utf-8&client=firefox-b-1-m>
-
-would be some things to check out.
-```
 
 ### Documentation of existing POC
 

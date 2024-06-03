@@ -59,12 +59,6 @@ Albert will run everything day to day as COO. Patti will handle everything finan
 
 ## CNC/3d printing
 
-We have a crealty ender (something) which has laser cuter, filament extruder, cnc.
-
-We also have monoprice 3d printers.
-
-We also have an OpenScan 3d scanner.
-
 ### CNC
 
 The following are some options to drive the controller

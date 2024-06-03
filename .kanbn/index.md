@@ -15,7 +15,6 @@ sprints:
 
 - [cio-rdit-pcb-cleanup](tasks/cio-rdit-pcb-cleanup.md)
 - [cio-rdit-environmental-chamber](tasks/cio-rdit-environmental-chamber.md)
-- [cio-rdit-pcb-stencil-making](tasks/cio-rdit-pcb-stencil-making.md)
 - [cio-rdit-finish-reflow-oven-build](tasks/cio-rdit-finish-reflow-oven-build.md)
 - [bizops-pac](tasks/bizops-pac.md)
 - [bizops-insurance](tasks/bizops-insurance.md)

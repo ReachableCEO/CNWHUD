@@ -5,8 +5,6 @@
 
 # COO Todo items
 
-
-- Setup automations to alert me via pushover to take breaks, drink water, switch locations etc
 - Finish paypal/venmo/cash app/buy me a coffee/patreon/librepay/github sponsors profile/banking setup
 - Get all contacts consolidated and into Monica CRM
 
